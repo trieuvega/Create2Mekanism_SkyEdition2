@@ -7078,75 +7078,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/tank_sky_stone": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diorite_3_uncraft": {
-    "criteria": {
-      "has_compressed_diorite_x3": "2025-08-05 08:28:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/granite_3_uncraft": {
-    "criteria": {
-      "has_compressed_granite_x3": "2025-08-05 08:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
   "quark:get_bottled_cloud": {
     "criteria": {
       "get_bottled_cloud": "2025-08-05 08:10:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diorite_1_uncraft": {
-    "criteria": {
-      "has_compressed_diorite_x1": "2025-08-05 08:24:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/granite_1_uncraft": {
-    "criteria": {
-      "has_compressed_granite_x1": "2025-08-05 08:43:46 +0000"
+      "gem": "2025-08-05 08:11:42 +0000"
     },
     "done": true
   },
@@ -7156,39 +7096,75 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/granite_4": {
+  "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
-      "has_compressed_granite_x3": "2025-08-05 08:45:20 +0000"
+      "has_sky_stone_dust": "2025-08-05 08:13:49 +0000"
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/granite_5": {
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
     "criteria": {
-      "has_compressed_granite_x4": "2025-08-05 08:45:24 +0000"
+      "has_dusts/sky_stone": "2025-08-05 08:13:49 +0000"
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/granite_2": {
+  "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
-      "has_compressed_granite_x1": "2025-08-05 08:43:46 +0000"
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/granite_3": {
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
-      "has_compressed_granite_x2": "2025-08-05 08:45:13 +0000"
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "has_blackstone": "2025-08-05 08:34:40 +0000"
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/diorite_3": {
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
-      "has_compressed_diorite_x2": "2025-08-05 08:28:03 +0000"
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_1_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x1": "2025-08-05 08:24:48 +0000"
     },
     "done": true
   },
@@ -7198,9 +7174,21 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/diorite_5": {
+  "compressium:recipes/building_blocks/diorite_3": {
     "criteria": {
-      "has_compressed_diorite_x4": "2025-08-05 08:29:05 +0000"
+      "has_compressed_diorite_x2": "2025-08-05 08:28:03 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_2_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x2": "2025-08-05 08:28:03 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_3_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x3": "2025-08-05 08:28:06 +0000"
     },
     "done": true
   },
@@ -7210,9 +7198,45 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+  "compressium:recipes/building_blocks/diorite_5": {
     "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+      "has_compressed_diorite_x4": "2025-08-05 08:29:05 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_4_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x4": "2025-08-05 08:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-08-05 08:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-05 08:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-08-05 08:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-05 08:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-05 08:34:40 +0000"
     },
     "done": true
   },
@@ -7228,27 +7252,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diorite_4_uncraft": {
-    "criteria": {
-      "has_compressed_diorite_x4": "2025-08-05 08:29:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/granite_4_uncraft": {
-    "criteria": {
-      "has_compressed_granite_x4": "2025-08-05 08:45:24 +0000"
     },
     "done": true
   },
@@ -7258,51 +7264,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-05 08:34:40 +0000"
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/granite_2_uncraft": {
-    "criteria": {
-      "has_compressed_granite_x2": "2025-08-05 08:45:13 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diorite_2_uncraft": {
-    "criteria": {
-      "has_compressed_diorite_x2": "2025-08-05 08:28:03 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-08-05 08:11:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-08-05 08:34:40 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_dust": "2025-08-05 08:13:49 +0000"
     },
     "done": true
   },
@@ -7324,12 +7294,6 @@
     },
     "done": true
   },
-  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
-    "criteria": {
-      "has_dusts/sky_stone": "2025-08-05 08:13:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-05 08:34:40 +0000"
@@ -7342,15 +7306,51 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+  "compressium:recipes/building_blocks/granite_1_uncraft": {
     "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+      "has_compressed_granite_x1": "2025-08-05 08:43:46 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/chests_sky_stone": {
+  "compressium:recipes/building_blocks/granite_2": {
     "criteria": {
-      "has_sky_stone_block": "2025-08-05 08:14:14 +0000"
+      "has_compressed_granite_x1": "2025-08-05 08:43:46 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_3": {
+    "criteria": {
+      "has_compressed_granite_x2": "2025-08-05 08:45:13 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_2_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x2": "2025-08-05 08:45:13 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_3_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x3": "2025-08-05 08:45:20 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_4": {
+    "criteria": {
+      "has_compressed_granite_x3": "2025-08-05 08:45:20 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_5": {
+    "criteria": {
+      "has_compressed_granite_x4": "2025-08-05 08:45:24 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_4_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x4": "2025-08-05 08:45:24 +0000"
     },
     "done": true
   },
