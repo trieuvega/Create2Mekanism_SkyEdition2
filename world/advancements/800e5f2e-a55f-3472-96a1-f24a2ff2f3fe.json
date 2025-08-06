@@ -8619,5 +8619,293 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_iron": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_diamond": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_silver": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_copper": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_gold": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_obsidian": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_netherite": {
+    "criteria": {
+      "has_wood": "2025-08-06 07:46:07 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-06 07:47:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-06 08:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_4_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x4": "2025-08-06 09:01:36 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_2_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x2": "2025-08-06 08:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_3_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x3": "2025-08-06 09:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_1_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x1": "2025-08-06 08:56:17 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-08-06 08:28:44 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_5_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x5": "2025-08-06 09:20:11 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_2": {
+    "criteria": {
+      "has_compressed_andesite_x1": "2025-08-06 08:56:17 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_3": {
+    "criteria": {
+      "has_compressed_andesite_x2": "2025-08-06 08:57:40 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_4": {
+    "criteria": {
+      "has_compressed_andesite_x3": "2025-08-06 09:01:32 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_5": {
+    "criteria": {
+      "has_compressed_andesite_x4": "2025-08-06 09:01:36 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_6": {
+    "criteria": {
+      "has_compressed_andesite_x5": "2025-08-06 09:20:11 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 09:14:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
