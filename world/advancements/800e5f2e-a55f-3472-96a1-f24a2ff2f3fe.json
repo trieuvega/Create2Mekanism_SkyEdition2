@@ -7354,6 +7354,78 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_copper_to_iron_tier_upgrade": "2025-08-05 15:02:21 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/wine_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
@@ -7363,36 +7435,6 @@
   "dyenamics:recipes/misc/navy_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_fixture": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-08-05 16:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-08-05 16:40:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-05 16:44:35 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/coal_1": {
-    "criteria": {
-      "has_coal": "2025-08-05 16:40:44 +0000"
     },
     "done": true
   },
@@ -7414,12 +7456,6 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/redstoneproxy_update": {
-    "criteria": {
-      "torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/amber_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
@@ -7429,18 +7465,6 @@
   "dyenamics:recipes/misc/lavender_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/mechanical_hammer": {
-    "criteria": {
-      "has_item": "2025-08-05 15:30:53 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_spade": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
     },
     "done": true
   },
@@ -7474,12 +7498,6 @@
     },
     "done": true
   },
-  "exdeorum:recipes/misc/mechanical_sieve": {
-    "criteria": {
-      "has_item": "2025-08-05 15:30:53 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/peach_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
@@ -7498,45 +7516,9 @@
     },
     "done": true
   },
-  "ae2:main/charger": {
-    "criteria": {
-      "certus": "2025-08-05 16:23:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_axe": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_block": {
-    "criteria": {
-      "has_certus_quartz_crystal": "2025-08-05 16:14:33 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2025-08-05 16:26:55 +0000"
     },
     "done": true
   },
@@ -7546,27 +7528,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-08-05 15:38:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
     },
     "done": true
   },
@@ -7588,12 +7552,6 @@
     },
     "done": true
   },
-  "projecte:recipes/misc/conversions/coal_to_charcoal": {
-    "criteria": {
-      "has_coal": "2025-08-05 16:40:30 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/fluorescent_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
@@ -7603,18 +7561,6 @@
   "dyenamics:recipes/misc/cherenkov_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2025-08-05 16:13:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
     },
     "done": true
   },
@@ -7630,63 +7576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-05 16:44:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-08-05 16:23:08 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2025-08-05 16:23:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/misc/alchemical_coal": {
-    "criteria": {
-      "has_coal": "2025-08-05 16:40:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_sword": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
-    },
-    "done": true
-  },
-  "create:spout": {
-    "criteria": {
-      "0": "2025-08-05 16:14:10 +0000"
     },
     "done": true
   },
@@ -7696,57 +7588,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-08-05 16:26:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-08-05 16:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/charged_quartz": {
-    "criteria": {
-      "certus": "2025-08-05 16:25:29 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/basic_item_filter": {
-    "criteria": {
-      "has_ingredient": "2025-08-05 15:30:53 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-08-05 16:13:42 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2025-08-05 16:14:33 +0000"
     },
     "done": true
   },
@@ -7762,27 +7606,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/certus_quartz_hoe": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-08-05 16:23:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
     },
     "done": true
   },
@@ -7804,27 +7630,9 @@
     },
     "done": true
   },
-  "rftoolsbase:recipes/rftoolsbase/filter_module": {
-    "criteria": {
-      "hopper": "2025-08-05 15:30:53 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/honey_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-05 15:30:23 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_wrench": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
     },
     "done": true
   },
@@ -7834,27 +7642,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-05 15:30:23 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_hammer": {
+    "criteria": {
+      "has_item": "2025-08-05 15:30:53 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-08-05 15:30:53 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-08-05 15:30:53 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-08-05 15:30:53 +0000"
+    },
+    "done": true
+  },
   "botanypots:husbandry/get_hopper_pot": {
     "criteria": {
       "get_hopper_pot": "2025-08-05 15:31:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
-      "has_coal": "2025-08-05 16:40:29 +0000"
+      "has_item": "2025-08-05 15:38:32 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
+  "create:mechanical_pump_0": {
     "criteria": {
-      "has_copper_to_iron_tier_upgrade": "2025-08-05 15:02:21 +0000"
+      "0": "2025-08-05 16:13:42 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_tool": {
+  "create:water_supply": {
     "criteria": {
-      "has_redstone_torch": "2025-08-05 15:02:13 +0000"
+      "0": "2025-08-05 16:13:49 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-08-05 16:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:14:33 +0000"
     },
     "done": true
   },
@@ -7864,9 +7756,81 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2025-08-05 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-08-05 16:23:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-05 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-05 16:26:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-08-05 16:26:55 +0000"
     },
     "done": true
   },
@@ -7876,15 +7840,782 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-05 16:40:29 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/coal_to_charcoal": {
+    "criteria": {
+      "has_coal": "2025-08-05 16:40:30 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/alchemical_coal": {
+    "criteria": {
+      "has_coal": "2025-08-05 16:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-05 16:40:44 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/coal_1": {
+    "criteria": {
+      "has_coal": "2025-08-05 16:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-05 16:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-05 16:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-08-05 16:44:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "industrialrenewal:recipes/misc/electric_fence": {
     "criteria": {
-      "has_brick": "2025-08-05 15:30:23 +0000"
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/scaffold": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_stair": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/electric_gate": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/handrail": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/platform": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/razor_wire": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_gate": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_ladder": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/solar_panel_frame": {
+    "criteria": {
+      "has_item": "2025-08-06 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-08-06 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-06 04:51:35 +0000"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/goat_seed": {
+    "criteria": {
+      "has_wheat": "2025-08-06 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/cow_seed": {
+    "criteria": {
+      "has_wheat": "2025-08-06 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-06 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-06 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-08-06 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-06 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-06 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-06 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-06 04:53:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-08-06 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-08-06 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-08-06 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-08-06 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-08-06 05:37:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2025-08-06 06:09:52 +0000",
+      "seared_ingot_tank": "2025-08-06 05:39:07 +0000",
+      "seared_basin": "2025-08-06 06:22:54 +0000",
+      "seared_table": "2025-08-06 06:08:46 +0000",
+      "seared_faucet": "2025-08-06 06:11:40 +0000",
+      "seared_melter": "2025-08-06 06:16:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-08-06 05:48:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 05:56:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 05:57:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 05:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-06 05:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-06 05:57:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 05:59:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-06 05:59:46 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/kinetic_battery": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2025-08-06 06:01:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-08-06 06:07:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-08-06 06:07:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-06 06:11:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-08-06 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "ingot": "2025-08-06 06:20:24 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-08-06 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-08-06 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-08-06 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-06 06:25:29 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-06 06:35:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-08-06 06:35:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-08-06 07:08:43 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-06 07:15:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_table_cloth_clear": {
+    "criteria": {
+      "has_andesite_table_cloth": "2025-08-06 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-08-06 07:20:36 +0000"
     },
     "done": true
   },
