@@ -8919,5 +8919,11 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2025-08-07 06:36:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
