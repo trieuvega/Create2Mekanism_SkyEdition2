@@ -6731,9 +6731,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-08-05 08:12:01 +0000"
+      "0": "2025-08-05 08:12:01 +0000",
+      "1": "2025-08-07 03:58:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:water_wheel": {
     "criteria": {
@@ -6921,27 +6922,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_fixture": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
-    "criteria": {
-      "has_netherite_chest": "2025-08-05 15:28:55 +0000"
     },
     "done": true
   },
@@ -6951,171 +6934,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/black_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-08-05 15:28:49 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/persimmon_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/lime_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/redstoneproxy_update": {
-    "criteria": {
-      "torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/light_blue_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/gray_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/fluorescent_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_rod": {
-    "criteria": {
-      "has_iron_rod": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_spade": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-08-05 15:28:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "quark:get_bottled_cloud": {
-    "criteria": {
-      "get_bottled_cloud": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "create:millstone": {
-    "criteria": {
-      "0": "2025-08-05 15:52:10 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-08-05 15:31:08 +0000"
     },
     "done": true
   },
@@ -7125,177 +6946,15 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_factory_block": {
-    "criteria": {
-      "has_iron_factory_block": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/amber_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_axe": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/rose_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/etrionic_blast_furnace": {
-    "criteria": {
-      "has_etrionic_blast_furnace": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_block": {
-    "criteria": {
-      "has_certus_quartz_crystal": "2025-08-05 16:15:56 +0000"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/copper_1": {
-    "criteria": {
-      "has_copper": "2025-08-05 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/facade": {
-    "criteria": {
-      "glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_copper_chest": {
-    "criteria": {
-      "has_chest": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/cherenkov_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/orange_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_panel": {
-    "criteria": {
-      "has_iron_panel": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
     },
     "done": true
   },
@@ -7311,15 +6970,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glass_bottle": {
+  "functionalstorage:recipes/misc/netherite_upgrade": {
     "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+  "metalbarrels:recipes/decorations/netherite_barrel_smithing": {
     "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/netherite_mesh": {
+    "criteria": {
+      "has_item": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/netherite_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_gear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "pureemeraldtools:adv_give_emerald_netherite_recipes": {
+    "criteria": {
+      "adv_give_emerald_netherite_recipes": "2025-08-05 15:03:11 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-08-05 15:26:26 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman": {
+    "criteria": {
+      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/alchemical_chest": {
+    "criteria": {
+      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
+    },
+    "done": true
+  },
+  "projectextended:recipes/decorations/alchemical_barrel": {
+    "criteria": {
+      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman_alt": {
+    "criteria": {
+      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-08-05 15:28:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-08-05 15:28:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-08-05 15:28:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
+    "criteria": {
+      "has_netherite_chest": "2025-08-05 15:28:55 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/black_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/lime_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/light_blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/orange_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
@@ -7341,39 +7138,105 @@
     },
     "done": true
   },
-  "dyenamics:recipes/misc/icy_blue_stained_glass": {
+  "projecte:recipes/tools/green_alchemical_bag": {
     "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
+  "projecte:recipes/tools/white_alchemical_bag": {
     "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+  "projecte:recipes/tools/red_alchemical_bag": {
     "criteria": {
-      "has_gold_chest": "2025-08-05 15:28:49 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
-  "functionalstorage:recipes/misc/netherite_upgrade": {
+  "projecte:recipes/tools/purple_alchemical_bag": {
     "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+  "projecte:recipes/tools/yellow_alchemical_bag": {
     "criteria": {
-      "has_chest": "2025-08-05 15:30:35 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "projecte:recipes/decorations/condenser_mk1": {
     "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/brown_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/light_gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/cyan_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-08-05 15:30:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
@@ -7383,39 +7246,159 @@
     },
     "done": true
   },
-  "metalbarrels:recipes/decorations/netherite_barrel_smithing": {
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
     "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/misc/netherite_mesh": {
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
-      "has_item": "2025-08-05 15:03:11 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/peach_stained_glass": {
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
     "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/maroon_stained_glass": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_glass": "2025-08-05 15:31:11 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/tools/netherite_watering_can": {
+  "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
-      "has_item": "2025-08-05 15:03:11 +0000"
+      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-08-05 15:30:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-08-05 15:30:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-08-05 15:30:39 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-08-05 15:31:08 +0000"
     },
     "done": true
   },
@@ -7431,15 +7414,183 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-08-05 15:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-05 15:31:11 +0000"
     },
     "done": true
   },
@@ -7461,57 +7612,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-08-05 15:30:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/honey_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_sword": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_gear_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
     },
     "done": true
   },
@@ -7521,57 +7624,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 15:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/charged_quartz": {
-    "criteria": {
-      "certus": "2025-08-05 16:35:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/lavender_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2025-08-05 16:15:56 +0000"
     },
     "done": true
   },
@@ -7581,51 +7636,15 @@
     },
     "done": true
   },
-  "projecte:recipes/tools/repair_talisman": {
-    "criteria": {
-      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/manual": {
-    "criteria": {
-      "book": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/green_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/white_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/navy_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_hoe": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
     },
     "done": true
   },
@@ -7641,63 +7660,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_plating": {
-    "criteria": {
-      "has_iron_plating": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
-    "criteria": {
-      "has_chest": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/iron_plateblock": {
-    "criteria": {
-      "has_iron_plateblock": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/red_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/purple_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
     },
     "done": true
   },
@@ -7713,66 +7678,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-08-05 15:30:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-08-05 15:30:39 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/yellow_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_wrench": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/condenser_mk1": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-08-05 16:29:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
@@ -7785,39 +7690,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/gas_tank": {
-    "criteria": {
-      "has_gas_tank": "2025-08-05 15:31:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_tool": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-05 15:30:32 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/aquamarine_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
-    "criteria": {
-      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
     },
     "done": true
   },
@@ -7827,87 +7702,9 @@
     },
     "done": true
   },
-  "projecte:recipes/tools/brown_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/black_paper": {
-    "criteria": {
-      "has_ingredient": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/blue_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/alchemical_chest": {
-    "criteria": {
-      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/light_gray_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/enchanter": {
-    "criteria": {
-      "has_ingredient": "2025-08-05 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "projectextended:recipes/decorations/alchemical_barrel": {
-    "criteria": {
-      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 15:31:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-08-05 15:30:39 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/repair_talisman_alt": {
-    "criteria": {
-      "has_covalence_dust": "2025-08-05 15:26:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-08-05 16:08:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-08-05 15:29:39 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/cyan_alchemical_bag": {
-    "criteria": {
-      "has_alchemical_chest": "2025-08-05 15:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-08-05 15:03:11 +0000"
     },
     "done": true
   },
@@ -7917,21 +7714,243 @@
     },
     "done": true
   },
-  "pureemeraldtools:adv_give_emerald_netherite_recipes": {
-    "criteria": {
-      "adv_give_emerald_netherite_recipes": "2025-08-05 15:03:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-08-05 15:31:11 +0000"
     },
     "done": true
   },
-  "projecte:recipes/tools/divining_rod_1": {
+  "create:millstone": {
     "criteria": {
-      "has_covalence_dust": "2025-08-05 15:26:26 +0000"
+      "0": "2025-08-05 15:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/copper_1": {
+    "criteria": {
+      "has_copper": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-05 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-05 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-08-05 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-08-05 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-05 16:29:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-05 16:35:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-05 16:35:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-08-07 04:10:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-08-07 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-07 04:10:08 +0000"
     },
     "done": true
   },
