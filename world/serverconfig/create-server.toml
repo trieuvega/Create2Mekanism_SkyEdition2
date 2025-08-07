@@ -61,7 +61,7 @@
 	#.
 	#.
 	#Disable the Stress mechanic altogether.
-	disableStress = false
+	disableStress = true
 	#.
 	#Maximum length in blocks of mechanical belts.
 	#Range: > 5

@@ -11,7 +11,7 @@
 	disableSpawnEggs = false
 	#Sets the speed of all cages. The bigger the value the faster the cages will work (by default: 1.00).
 	#Range: 0.01 ~ 100.0
-	cagesSpeed = 1.0
+	cagesSpeed = 10.0
 	#List of all entities blacklisted from use (in a modid:name format). Players will not be able to put entities from this list into cages nor sample them.
 	#To switch this list into a whitelist, set the 'entitiesListInWhitelistMode' value to true. 
 	#Example use: when 'entitiesList' contains ["minecraft:pig", "minecraft:cow","minecraft:rabbit"] vanilla pig, cow and rabbit will be blacklisted.
