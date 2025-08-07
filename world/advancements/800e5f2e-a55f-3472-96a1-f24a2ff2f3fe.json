@@ -8925,5 +8925,659 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-07 09:02:42 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-07 07:50:53 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-07 08:02:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_gray": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "projectexpansion:pink_fuel": {
+    "criteria": {
+      "pink_fuel": "2025-08-07 08:25:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-08-07 08:57:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumaccel": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/arcana_ring": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-07 09:44:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:alchemical_coal": {
+    "criteria": {
+      "alchemical_coal": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/dark_matter": {
+    "criteria": {
+      "has_aeternalis": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "projectextended:recipes/combat/red_matter_trident": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:aeternalis_fuel": {
+    "criteria": {
+      "aeternalis_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "projectextended:recipes/combat/red_matter_shield": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_zwei": {
+    "criteria": {
+      "has_components": "2025-08-07 08:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_pink": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/mobius_fuel_block": {
+    "criteria": {
+      "has_mobius_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_purple": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-07 08:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_light_gray": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_brown": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/soul_stone": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/bee_seed": {
+    "criteria": {
+      "has_poppy": "2025-08-07 08:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumunit": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_red": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_blue": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage128": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/dm_pedestal": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_white": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_lime": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-08-07 10:30:18 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-07 09:02:42 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/alchemical_coal_block": {
+    "criteria": {
+      "has_alchemical_coal": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_black": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_green": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_yellow": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/mind_stone": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcore": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "projectexpansion:magenta_fuel": {
+    "criteria": {
+      "magenta_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2025-08-07 08:44:38 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage256": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_magenta": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_dye": {
+    "criteria": {
+      "has_orange_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/body_stone": {
+    "criteria": {
+      "has_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-07 09:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2025-08-07 08:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-07 09:02:42 +0000"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstructure": {
+    "criteria": {
+      "hasItem": "2025-08-07 10:34:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/red_matter_block": {
+    "criteria": {
+      "has_red_matter": "2025-08-07 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "projecte:mobius_fuel": {
+    "criteria": {
+      "mobius_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_dye": {
+    "criteria": {
+      "has_orange_dye": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "create:cross_streams": {
+    "criteria": {
+      "0": "2025-08-07 09:23:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_cure_base": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_orange": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:49 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/aeternalis_fuel_block": {
+    "criteria": {
+      "has_aeternalis_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "projectexpansion:purple_fuel": {
+    "criteria": {
+      "purple_fuel": "2025-08-07 08:25:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 08:05:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:57:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_light_blue": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_cyan": {
+    "criteria": {
+      "has_paint_ball": "2025-08-07 10:37:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
