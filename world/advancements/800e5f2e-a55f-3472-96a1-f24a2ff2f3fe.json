@@ -10077,5 +10077,59 @@
     },
     "done": true
   },
+  "compressium:recipes/building_blocks/emerald_3": {
+    "criteria": {
+      "has_compressed_emerald_x2": "2025-08-10 13:22:58 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/emerald_2_uncraft": {
+    "criteria": {
+      "has_compressed_emerald_x2": "2025-08-10 13:22:58 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/emerald_1_uncraft": {
+    "criteria": {
+      "has_compressed_emerald_x1": "2025-08-10 13:23:03 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/emerald_2": {
+    "criteria": {
+      "has_compressed_emerald_x1": "2025-08-10 13:23:03 +0700"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-08-10 13:23:22 +0700"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-08-10 13:23:22 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-08-10 13:23:22 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-08-10 13:23:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-10 20:39:32 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

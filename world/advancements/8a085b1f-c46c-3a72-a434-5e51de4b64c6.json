@@ -8224,6 +8224,7 @@
       "seared_heater": "2025-08-07 11:39:57 +0700",
       "seared_ingot_tank": "2025-08-07 11:40:23 +0700",
       "seared_table": "2025-08-07 11:50:50 +0700",
+      "seared_basin": "2025-08-10 21:09:35 +0700",
       "seared_faucet": "2025-08-07 11:41:28 +0700"
     },
     "done": false
@@ -8494,6 +8495,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "rod": "2025-08-10 21:04:44 +0700",
       "ingot": "2025-08-07 11:50:48 +0700"
     },
     "done": false
@@ -11580,6 +11582,324 @@
   "tconstruct:recipes/misc/common/materials/rose_gold_ingot_from_block": {
     "criteria": {
       "has_item": "2025-08-08 16:40:08 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/coal_2": {
+    "criteria": {
+      "has_compressed_coal_x1": "2025-08-10 19:41:31 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/coal_3": {
+    "criteria": {
+      "has_compressed_coal_x2": "2025-08-10 19:41:31 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/coal_1_uncraft": {
+    "criteria": {
+      "has_compressed_coal_x1": "2025-08-10 19:41:31 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/kinetic_battery": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:56 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/gold_2": {
+    "criteria": {
+      "has_compressed_gold_x1": "2025-08-10 19:51:16 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/electric_fence": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/scaffold": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_stair": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/electric_gate": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_3": {
+    "criteria": {
+      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/handrail": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/platform": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/emerald_3": {
+    "criteria": {
+      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_dye": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/coal_2_uncraft": {
+    "criteria": {
+      "has_compressed_coal_x2": "2025-08-10 19:41:31 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/gold_1_uncraft": {
+    "criteria": {
+      "has_compressed_gold_x1": "2025-08-10 19:51:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/razor_wire": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_gate": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_2_uncraft": {
+    "criteria": {
+      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_ladder": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/emerald_2_uncraft": {
+    "criteria": {
+      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/solar_panel_frame": {
+    "criteria": {
+      "has_item": "2025-08-10 21:02:27 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
     },
     "done": true
   },
