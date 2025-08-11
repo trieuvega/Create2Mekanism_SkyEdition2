@@ -3235,10 +3235,26 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-11 16:25:53 +0700",
+      "chicken": "2025-08-11 16:24:17 +0700",
+      "sweet_berries": "2025-08-11 16:26:24 +0700",
+      "chorus_fruit": "2025-08-11 15:48:55 +0700",
       "baked_potato": "2025-08-05 11:37:39 +0700",
+      "porkchop": "2025-08-11 16:22:38 +0700",
       "apple": "2025-08-05 10:56:03 +0700",
+      "spider_eye": "2025-08-11 16:23:15 +0700",
+      "potato": "2025-08-11 16:22:31 +0700",
+      "poisonous_potato": "2025-08-11 16:22:27 +0700",
       "golden_apple": "2025-08-08 12:57:57 +0700",
-      "golden_carrot": "2025-08-07 14:26:14 +0700"
+      "bread": "2025-08-11 16:04:56 +0700",
+      "rotten_flesh": "2025-08-11 16:24:05 +0700",
+      "dried_kelp": "2025-08-11 16:27:14 +0700",
+      "melon_slice": "2025-08-11 16:28:01 +0700",
+      "golden_carrot": "2025-08-07 14:26:14 +0700",
+      "beetroot": "2025-08-11 16:24:51 +0700",
+      "cooked_chicken": "2025-08-11 16:25:13 +0700",
+      "enchanted_golden_apple": "2025-08-11 14:32:31 +0700",
+      "carrot": "2025-08-11 15:39:43 +0700"
     },
     "done": false
   },
@@ -5959,6 +5975,7 @@
       "minecraft:skeleton": "2025-08-05 13:38:03 +0700",
       "minecraft:creeper": "2025-08-05 13:37:52 +0700",
       "minecraft:wither": "2025-08-08 12:58:54 +0700",
+      "minecraft:phantom": "2025-08-11 14:31:15 +0700",
       "minecraft:zombified_piglin": "2025-08-08 01:57:20 +0700",
       "minecraft:wither_skeleton": "2025-08-08 01:54:18 +0700",
       "minecraft:enderman": "2025-08-08 01:50:37 +0700",
@@ -11585,21 +11602,57 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/orange_industrial_lamp": {
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
     "criteria": {
-      "has_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+      "has_item": "2025-08-10 19:21:56 +0700"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
     "criteria": {
-      "has_small_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+      "has_item": "2025-08-10 19:21:57 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_candle": {
+  "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
-      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/kinetic_battery": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2025-08-10 19:21:57 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_3": {
+    "criteria": {
+      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_2_uncraft": {
+    "criteria": {
+      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
     },
     "done": true
   },
@@ -11615,79 +11668,37 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
-    "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
-    },
-    "done": true
-  },
   "compressium:recipes/building_blocks/coal_1_uncraft": {
     "criteria": {
       "has_compressed_coal_x1": "2025-08-10 19:41:31 +0700"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/deployer": {
+  "compressium:recipes/building_blocks/coal_2_uncraft": {
     "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
+      "has_compressed_coal_x2": "2025-08-10 19:41:31 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
+  "compressium:recipes/building_blocks/emerald_3": {
     "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/conifer_dye": {
+  "compressium:recipes/building_blocks/emerald_2_uncraft": {
     "criteria": {
-      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/kinetic_battery": {
-    "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
-    "criteria": {
-      "has_item": "2025-08-10 19:21:56 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
     },
     "done": true
   },
   "compressium:recipes/building_blocks/gold_2": {
+    "criteria": {
+      "has_compressed_gold_x1": "2025-08-10 19:51:16 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/gold_1_uncraft": {
     "criteria": {
       "has_compressed_gold_x1": "2025-08-10 19:51:16 +0700"
     },
@@ -11699,51 +11710,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_orange_dye": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
-    "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
-    },
-    "done": true
-  },
   "industrialrenewal:recipes/misc/scaffold": {
     "criteria": {
       "has_item": "2025-08-10 21:02:27 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
     },
     "done": true
   },
@@ -11753,33 +11722,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
   "industrialrenewal:recipes/misc/electric_gate": {
     "criteria": {
       "has_item": "2025-08-10 21:02:27 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/cobblestone_3": {
-    "criteria": {
-      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
-    "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:08 +0700"
     },
     "done": true
   },
@@ -11795,63 +11740,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
   "industrialrenewal:recipes/misc/platform": {
     "criteria": {
       "has_item": "2025-08-10 21:02:27 +0700"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/honey_dye": {
-    "criteria": {
-      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:08 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/emerald_3": {
-    "criteria": {
-      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/amber_dye": {
-    "criteria": {
-      "has_orange_dye": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/coal_2_uncraft": {
-    "criteria": {
-      "has_compressed_coal_x2": "2025-08-10 19:41:31 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/gold_1_uncraft": {
-    "criteria": {
-      "has_compressed_gold_x1": "2025-08-10 19:51:16 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 21:03:10 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_orange": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:10 +0700"
     },
     "done": true
   },
@@ -11867,27 +11758,9 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/cobblestone_2_uncraft": {
-    "criteria": {
-      "has_compressed_cobblestone_x2": "2025-08-10 19:35:28 +0700"
-    },
-    "done": true
-  },
   "industrialrenewal:recipes/misc/catwalk_ladder": {
     "criteria": {
       "has_item": "2025-08-10 21:02:27 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/emerald_2_uncraft": {
-    "criteria": {
-      "has_compressed_emerald_x2": "2025-08-10 19:45:45 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-08-10 21:03:08 +0700"
     },
     "done": true
   },
@@ -11897,9 +11770,782 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_item": "2025-08-10 19:21:57 +0700"
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:08 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_dye": {
+    "criteria": {
+      "has_orange_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-08-10 21:03:10 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-08-11 14:10:39 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/navy_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 16:24:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 16:28:16 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-11 13:33:57 +0700"
+    },
+    "done": true
+  },
+  "pureemeraldtools:adv_give_pure_emerald_recipes": {
+    "criteria": {
+      "adv_give_pure_emerald_recipes": "2025-08-11 15:11:26 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-11 14:20:41 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-08-11 14:29:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/sculk_core": {
+    "criteria": {
+      "has_item": "2025-08-11 13:40:14 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/iron_ingot_from_blasting_sculk_stone_iron_ore": {
+    "criteria": {
+      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-11 14:31:15 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-11 14:23:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-11 14:18:34 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-08-11 14:18:04 +0700",
+      "phantom": "2025-08-11 14:31:15 +0700",
+      "sculk_centipede": "2025-08-11 14:18:17 +0700",
+      "warden": "2025-08-11 14:23:09 +0700",
+      "sculk_snapper": "2025-08-11 14:29:04 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-11 14:26:34 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/food/end_cake": {
+    "criteria": {
+      "has_item": "2025-08-11 13:33:57 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/iron_ingot_from_smelting_sculk_stone_iron_ore": {
+    "criteria": {
+      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-11 13:39:17 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/clay_1": {
+    "criteria": {
+      "has_clay": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 16:24:47 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-08-11 14:10:39 +0700",
+      "blooming_caverns": "2025-08-11 14:13:50 +0700"
+    },
+    "done": false
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-08-11 14:18:07 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-08-11 15:32:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 16:28:16 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-08-11 14:23:13 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-08-11 13:42:06 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/coal_from_blasting_sculk_stone_coal_ore": {
+    "criteria": {
+      "has_sculk_stone_coal_ore": "2025-08-11 14:13:06 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-08-11 13:40:14 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-08-11 15:50:33 +0700"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-08-11 13:36:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/coal_from_smelting_sculk_stone_coal_ore": {
+    "criteria": {
+      "has_sculk_stone_coal_ore": "2025-08-11 14:13:06 +0700"
     },
     "done": true
   },
