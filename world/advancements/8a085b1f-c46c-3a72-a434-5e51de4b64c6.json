@@ -11920,45 +11920,27 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-11 13:33:57 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/food/end_cake": {
+    "criteria": {
+      "has_item": "2025-08-11 13:33:57 +0700"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/wine_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
-    "criteria": {
-      "otherside": "2025-08-11 14:10:39 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/navy_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-11 16:24:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-08-11 14:56:46 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_leggings_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_sword_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
     },
     "done": true
   },
@@ -11980,63 +11962,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-08-11 16:28:16 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
-    "criteria": {
-      "has_item": "2025-08-11 13:33:57 +0700"
-    },
-    "done": true
-  },
-  "pureemeraldtools:adv_give_pure_emerald_recipes": {
-    "criteria": {
-      "adv_give_pure_emerald_recipes": "2025-08-11 15:11:26 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/amber_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
     },
     "done": true
   },
-  "create:recipes/misc/smoking/bread": {
-    "criteria": {
-      "has_item": "2025-08-11 15:55:15 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:main/obtain_reinforced_echo_shard": {
-    "criteria": {
-      "reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/lavender_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-08-11 15:43:22 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_helmet_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-08-11 15:55:55 +0700"
     },
     "done": true
   },
@@ -12049,18 +11983,6 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-08-11 16:27:52 +0700"
     },
     "done": true
   },
@@ -12088,18 +12010,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/tools/warden_axe_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
@@ -12112,33 +12022,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/red_flag": {
-    "criteria": {
-      "has_red_flag": "2025-08-11 15:43:22 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_red_wool": "2025-08-11 15:43:22 +0700"
     },
     "done": true
   },
@@ -12148,75 +12034,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-08-11 14:20:41 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-08-11 14:29:04 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-11 13:36:48 +0700"
     },
     "done": true
   },
-  "exdeorum:recipes/misc/sculk_core": {
-    "criteria": {
-      "has_item": "2025-08-11 13:40:14 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/iron_ingot_from_blasting_sculk_stone_iron_ore": {
-    "criteria": {
-      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-08-11 15:43:22 +0700"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_red_wool": "2025-08-11 15:43:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-08-11 16:27:52 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_boots_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-08-11 14:31:15 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
-    "criteria": {
-      "has_item": "2025-08-11 15:55:55 +0700"
     },
     "done": true
   },
@@ -12229,18 +12055,6 @@
   "dyenamics:recipes/misc/mint_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-08-11 14:23:09 +0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-08-11 14:18:34 +0700"
     },
     "done": true
   },
@@ -12262,67 +12076,15 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "shattered": "2025-08-11 14:18:04 +0700",
-      "phantom": "2025-08-11 14:31:15 +0700",
-      "sculk_centipede": "2025-08-11 14:18:17 +0700",
-      "warden": "2025-08-11 14:23:09 +0700",
-      "sculk_snapper": "2025-08-11 14:29:04 +0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
     },
     "done": true
   },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2025-08-11 14:56:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-08-11 14:26:34 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/food/end_cake": {
-    "criteria": {
-      "has_item": "2025-08-11 13:33:57 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/iron_ingot_from_smelting_sculk_stone_iron_ore": {
-    "criteria": {
-      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-08-11 14:56:46 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/bread": {
-    "criteria": {
-      "has_item": "2025-08-11 15:55:15 +0700"
     },
     "done": true
   },
@@ -12338,64 +12100,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-08-11 13:39:17 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2025-08-11 15:55:15 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/clay_1": {
-    "criteria": {
-      "has_clay": "2025-08-11 15:55:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-08-11 16:24:47 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/spring_green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "deeplands": "2025-08-11 14:10:39 +0700",
-      "blooming_caverns": "2025-08-11 14:13:50 +0700"
-    },
-    "done": false
-  },
-  "create:recipes/misc/campfire_cooking/bread": {
-    "criteria": {
-      "has_item": "2025-08-11 15:55:15 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_sculk_bone": "2025-08-11 14:18:07 +0700"
     },
     "done": true
   },
@@ -12405,39 +12112,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/resonarium_plate": {
-    "criteria": {
-      "has_resonarium": "2025-08-11 15:32:18 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-08-11 14:56:46 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-08-11 15:43:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-08-11 16:27:52 +0700"
     },
     "done": true
   },
@@ -12459,24 +12136,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-11 16:28:16 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-08-11 14:23:13 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/honey_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-11 13:36:48 +0700"
@@ -12489,15 +12148,260 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-11 13:36:48 +0700"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-08-11 13:36:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-11 13:39:17 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/sculk_core": {
+    "criteria": {
+      "has_item": "2025-08-11 13:40:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-08-11 13:40:14 +0700"
+    },
+    "done": true
+  },
   "botanypots:husbandry/get_hopper_pot": {
     "criteria": {
       "get_hopper_pot": "2025-08-11 13:42:06 +0700"
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-08-11 14:10:39 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-08-11 14:10:39 +0700",
+      "blooming_caverns": "2025-08-11 14:13:50 +0700"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-08-11 14:11:04 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/iron_ingot_from_blasting_sculk_stone_iron_ore": {
+    "criteria": {
+      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/iron_ingot_from_smelting_sculk_stone_iron_ore": {
+    "criteria": {
+      "has_sculk_stone_iron_ore": "2025-08-11 14:12:44 +0700"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/coal_from_blasting_sculk_stone_coal_ore": {
     "criteria": {
       "has_sculk_stone_coal_ore": "2025-08-11 14:13:06 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/coal_from_smelting_sculk_stone_coal_ore": {
+    "criteria": {
+      "has_sculk_stone_coal_ore": "2025-08-11 14:13:06 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-08-11 14:18:04 +0700",
+      "phantom": "2025-08-11 14:31:15 +0700",
+      "sculk_centipede": "2025-08-11 14:18:17 +0700",
+      "warden": "2025-08-11 14:23:09 +0700",
+      "sculk_snapper": "2025-08-11 14:29:04 +0700"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-08-11 14:18:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-11 14:18:34 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-11 14:20:41 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-11 14:23:09 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-08-11 14:23:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-11 14:26:34 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-08-11 14:29:04 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-11 14:31:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-11 14:56:46 +0700"
+    },
+    "done": true
+  },
+  "pureemeraldtools:adv_give_pure_emerald_recipes": {
+    "criteria": {
+      "adv_give_pure_emerald_recipes": "2025-08-11 15:11:26 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-08-11 15:32:18 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-08-11 15:35:47 +0700"
     },
     "done": true
   },
@@ -12513,9 +12417,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_echo_shard": "2025-08-11 13:40:14 +0700"
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-08-11 15:43:22 +0700"
     },
     "done": true
   },
@@ -12525,15 +12459,27 @@
     },
     "done": true
   },
-  "botanypots:husbandry/get_basic_pot": {
+  "create:recipes/misc/smoking/bread": {
     "criteria": {
-      "get_botany_pot": "2025-08-11 13:36:57 +0700"
+      "has_item": "2025-08-11 15:55:15 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "create:recipes/misc/smelting/bread": {
     "criteria": {
-      "has_brick": "2025-08-11 13:36:48 +0700"
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:15 +0700"
     },
     "done": true
   },
@@ -12543,9 +12489,405 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/coal_from_smelting_sculk_stone_coal_ore": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_sculk_stone_coal_ore": "2025-08-11 14:13:06 +0700"
+      "has_clay_block": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/clay_1": {
+    "criteria": {
+      "has_clay": "2025-08-11 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 16:24:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 16:24:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-11 16:27:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 16:28:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 16:28:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-12 11:38:44 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/jungle_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-08-12 11:38:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-12 11:38:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-12 11:56:12 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-08-12 11:56:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-12 11:56:12 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-12 12:32:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-08-12 16:20:03 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_1_uncraft": {
+    "criteria": {
+      "has_compressed_iron_x1": "2025-08-12 16:33:01 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_2": {
+    "criteria": {
+      "has_compressed_iron_x1": "2025-08-12 16:33:01 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_5": {
+    "criteria": {
+      "has_compressed_cobblestone_x4": "2025-08-12 16:41:26 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_4_uncraft": {
+    "criteria": {
+      "has_compressed_cobblestone_x4": "2025-08-12 16:41:26 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_3_uncraft": {
+    "criteria": {
+      "has_compressed_cobblestone_x3": "2025-08-12 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_4": {
+    "criteria": {
+      "has_compressed_cobblestone_x3": "2025-08-12 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-12 16:44:18 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_5_uncraft": {
+    "criteria": {
+      "has_compressed_cobblestone_x5": "2025-08-12 17:33:03 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/cobblestone_6": {
+    "criteria": {
+      "has_compressed_cobblestone_x5": "2025-08-12 17:33:03 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diamond_1_uncraft": {
+    "criteria": {
+      "has_compressed_diamond_x1": "2025-08-12 17:33:18 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diamond_2": {
+    "criteria": {
+      "has_compressed_diamond_x1": "2025-08-12 17:33:18 +0700"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-08-12 17:39:56 +0700"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-08-12 17:53:54 +0700"
+    },
+    "done": true
+  },
+  "create:belt_funnel_kiss": {
+    "criteria": {
+      "0": "2025-08-12 18:08:48 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker_clear": {
+    "criteria": {
+      "has_item": "2025-08-12 18:17:39 +0700"
     },
     "done": true
   },

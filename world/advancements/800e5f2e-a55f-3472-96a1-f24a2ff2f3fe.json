@@ -3302,10 +3302,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-11 17:07:01 +0700",
+      "sweet_berries": "2025-08-12 11:11:26 +0700",
       "baked_potato": "2025-08-05 11:19:25 +0700",
+      "porkchop": "2025-08-12 11:37:49 +0700",
       "apple": "2025-08-05 10:50:00 +0700",
       "potato": "2025-08-11 17:07:12 +0700",
-      "poisonous_potato": "2025-08-11 17:07:18 +0700"
+      "poisonous_potato": "2025-08-11 17:07:18 +0700",
+      "bread": "2025-08-12 11:18:57 +0700",
+      "beetroot": "2025-08-12 11:12:01 +0700"
     },
     "done": false
   },
@@ -10134,12 +10138,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-11 17:05:13 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-08-11 14:10:54 +0700"
@@ -10149,48 +10147,6 @@
   "pureemeraldtools:adv_give_pure_emerald_recipes": {
     "criteria": {
       "adv_give_pure_emerald_recipes": "2025-08-11 14:12:30 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-08-11 17:06:33 +0700"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-08-11 17:03:03 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/misc/conversions/red_matter_block_deconstruct": {
-    "criteria": {
-      "has_red_matter_block": "2025-08-11 16:35:21 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-08-11 17:06:33 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/mercurial_eye": {
-    "criteria": {
-      "has_matter": "2025-08-11 16:35:21 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/sculk_core": {
-    "criteria": {
-      "has_item": "2025-08-11 16:19:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-08-11 17:05:13 +0700"
     },
     "done": true
   },
@@ -10206,15 +10162,27 @@
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/fox_seed": {
+  "exdeorum:recipes/misc/sculk_core": {
     "criteria": {
-      "has_sweet_berries": "2025-08-11 17:07:36 +0700"
+      "has_item": "2025-08-11 16:19:36 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_porkchop": "2025-08-11 17:06:33 +0700"
+      "has_echo_shard": "2025-08-11 16:19:36 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/red_matter_block_deconstruct": {
+    "criteria": {
+      "has_red_matter_block": "2025-08-11 16:35:21 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/mercurial_eye": {
+    "criteria": {
+      "has_matter": "2025-08-11 16:35:21 +0700"
     },
     "done": true
   },
@@ -10224,9 +10192,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "has_echo_shard": "2025-08-11 16:19:36 +0700"
+      "coded_trigger": "2025-08-11 17:03:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 17:05:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-11 17:05:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-11 17:06:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-11 17:06:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-11 17:06:33 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/fox_seed": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-11 17:07:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-12 14:46:43 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_5_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x5": "2025-08-12 15:12:48 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_6": {
+    "criteria": {
+      "has_compressed_diorite_x5": "2025-08-12 15:12:48 +0700"
     },
     "done": true
   },
