@@ -17,7 +17,7 @@ backupsToKeep = 5
 #60 = each hour
 #1440 = each day
 #Range: 1 ~ 32767
-timer = 120
+timer = 30
 #The compression level, 0 is no compression (less cpu usage) and takes a lot of space, 9 is best compression (most cpu usage) and takes less space. -1 is default
 #Range: -1 ~ 9
 compressionLevel = -1
@@ -30,7 +30,7 @@ maxDiskSize = "25 GB"
 #Used to define the output path.
 outputPath = "simplebackups"
 #Create backups, even if nobody is online
-noPlayerBackups = false
+noPlayerBackups = true
 #Should sub-directories be generated for each world?
 #Keep in mind that all configs above, including backupsToKeep and maxDiskSize, will be calculated for each sub directory.
 createSubDirs = false
