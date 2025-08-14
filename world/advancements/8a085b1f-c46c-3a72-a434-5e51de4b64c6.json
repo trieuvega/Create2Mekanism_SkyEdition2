@@ -8246,9 +8246,10 @@
       "seared_ingot_tank": "2025-08-07 11:40:23 +0700",
       "seared_table": "2025-08-07 11:50:50 +0700",
       "seared_basin": "2025-08-10 21:09:35 +0700",
-      "seared_faucet": "2025-08-07 11:41:28 +0700"
+      "seared_faucet": "2025-08-07 11:41:28 +0700",
+      "seared_melter": "2025-08-13 14:46:22 +0700"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
@@ -8516,6 +8517,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "nugget": "2025-08-13 16:37:13 +0700",
       "rod": "2025-08-10 21:04:44 +0700",
       "ingot": "2025-08-07 11:50:48 +0700"
     },
@@ -12901,39 +12903,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
-    "criteria": {
-      "has_stack_upgrade_tier_4": "2025-08-13 06:40:01 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-08-13 06:40:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-08-12 23:24:16 +0700"
-    },
-    "done": true
-  },
   "havenanimalseeds:recipes/misc/craft/ocelot_seed": {
     "criteria": {
       "has_cod": "2025-08-12 23:23:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-08-12 23:24:16 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-08-13 06:39:55 +0700"
     },
     "done": true
   },
@@ -12943,27 +12915,75 @@
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/dolphin_seed": {
-    "criteria": {
-      "has_seagrass": "2025-08-12 23:44:36 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-12 23:23:05 +0700"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-08-13 06:37:37 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-12 23:23:05 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/cat_seed": {
+    "criteria": {
+      "has_fish": "2025-08-12 23:23:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-12 23:24:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-12 23:24:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-12 23:24:16 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/polar_bear_seed": {
+    "criteria": {
+      "has_salmon": "2025-08-12 23:24:16 +0700"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-08-12 23:44:34 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/dolphin_seed": {
+    "criteria": {
+      "has_seagrass": "2025-08-12 23:44:36 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/turtle_seed": {
+    "criteria": {
+      "has_seagrass": "2025-08-12 23:44:36 +0700"
+    },
+    "done": true
+  },
+  "havenanimalseeds:recipes/misc/craft/axolotl_seed": {
+    "criteria": {
+      "has_seagrass": "2025-08-12 23:44:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-13 00:10:38 +0700"
     },
     "done": true
   },
@@ -12979,21 +12999,27 @@
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/turtle_seed": {
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
     "criteria": {
-      "has_seagrass": "2025-08-12 23:44:36 +0700"
+      "has_backpack_stack_upgrade": "2025-08-13 06:37:37 +0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
-      "has_stack_upgrade_tier_2": "2025-08-13 06:39:55 +0700"
+      "has_stack_upgrade_starter_tier": "2025-08-13 06:37:37 +0700"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_stack_upgrade_tier_3": "2025-08-13 06:38:04 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-08-13 06:38:04 +0700"
     },
     "done": true
   },
@@ -13009,51 +13035,513 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
     "criteria": {
-      "has_ink_sac": "2025-08-13 00:10:38 +0700"
+      "has_backpack_stack_upgrade": "2025-08-13 06:39:55 +0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "has_stack_upgrade_starter_tier": "2025-08-13 06:37:37 +0700"
+      "has_stack_upgrade_tier_2": "2025-08-13 06:39:55 +0700"
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
     "criteria": {
-      "has_shear": "2025-08-12 23:44:34 +0700"
+      "has_stack_upgrade_tier_4": "2025-08-13 06:40:01 +0700"
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/axolotl_seed": {
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
     "criteria": {
-      "has_seagrass": "2025-08-12 23:44:36 +0700"
+      "has_storage_stack_upgrade": "2025-08-13 06:40:01 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "create:mechanical_press": {
     "criteria": {
-      "has_salmon": "2025-08-12 23:24:16 +0700"
+      "0": "2025-08-13 09:39:30 +0700"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+  "sophisticatedstorage:recipes/misc/backpack_crafting_upgrade_from_storage_crafting_upgrade": {
     "criteria": {
-      "has_backpack_stack_upgrade": "2025-08-13 06:38:04 +0700"
+      "has_storage_upgrade": "2025-08-13 10:05:25 +0700"
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/cat_seed": {
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "has_fish": "2025-08-12 23:23:05 +0700"
+      "has_stack_upgrade_tier_1": "2025-08-13 10:07:53 +0700"
     },
     "done": true
   },
-  "havenanimalseeds:recipes/misc/craft/polar_bear_seed": {
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
     "criteria": {
-      "has_salmon": "2025-08-12 23:24:16 +0700"
+      "has_stack_upgrade_tier_1": "2025-08-13 10:07:53 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2_from_tier_1_plus": {
+    "criteria": {
+      "has_stack_upgrade_tier_1_plus": "2025-08-13 10:08:07 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_starter_tier_from_storage_stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-13 10:08:07 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-08-13 10:08:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-13 10:08:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-08-13 10:08:35 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-13 10:08:35 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:emc_link": {
+    "criteria": {
+      "emc_link": "2025-08-13 10:26:28 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:magenta_matter": {
+    "criteria": {
+      "magenta_matter": "2025-08-13 10:29:08 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:pink_matter": {
+    "criteria": {
+      "pink_matter": "2025-08-13 10:29:58 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:purple_matter": {
+    "criteria": {
+      "purple_matter": "2025-08-13 10:31:38 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:violet_matter": {
+    "criteria": {
+      "violet_matter": "2025-08-13 10:32:16 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:collector": {
+    "criteria": {
+      "collector": "2025-08-13 11:43:39 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:compressed_collector": {
+    "criteria": {
+      "compressed_collector": "2025-08-13 11:44:14 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk2": {
+    "criteria": {
+      "has_previous": "2025-08-13 11:45:53 +0700"
+    },
+    "done": true
+  },
+  "projecte:relay": {
+    "criteria": {
+      "relay": "2025-08-13 11:45:53 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:relay": {
+    "criteria": {
+      "relay": "2025-08-13 11:45:58 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:power_flower": {
+    "criteria": {
+      "power_flower": "2025-08-13 11:46:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-13 13:05:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-13 13:05:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-13 13:05:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-13 13:05:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-13 13:17:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-13 13:39:05 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-13 13:40:11 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-13 13:40:11 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel_from_copper_barrel": {
+    "criteria": {
+      "has_copper_barrel": "2025-08-13 13:40:16 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_barrel": {
+    "criteria": {
+      "has_iron_barrel": "2025-08-13 13:40:29 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2025-08-13 13:40:34 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-08-13 13:40:37 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/redstone_link_wildcard": {
+    "criteria": {
+      "has_item": "2025-08-13 13:47:43 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-08-13 13:48:13 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-13 13:48:13 +0700"
+    },
+    "done": true
+  },
+  "createstockbridge:recipes/misc/ae_bridge": {
+    "criteria": {
+      "stuff": "2025-08-13 13:48:32 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link_clear": {
+    "criteria": {
+      "has_item": "2025-08-13 13:48:32 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/factory_gauge": {
+    "criteria": {
+      "has_item": "2025-08-13 13:48:32 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_1_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x1": "2025-08-13 14:26:32 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_2": {
+    "criteria": {
+      "has_compressed_granite_x1": "2025-08-13 14:26:32 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_3": {
+    "criteria": {
+      "has_compressed_granite_x2": "2025-08-13 14:26:33 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_2_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x2": "2025-08-13 14:26:33 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_5": {
+    "criteria": {
+      "has_compressed_granite_x4": "2025-08-13 14:36:07 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_4_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x4": "2025-08-13 14:36:07 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_6": {
+    "criteria": {
+      "has_compressed_granite_x5": "2025-08-13 14:36:14 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_5_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x5": "2025-08-13 14:36:14 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_3_uncraft": {
+    "criteria": {
+      "has_compressed_granite_x3": "2025-08-13 14:37:45 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/granite_4": {
+    "criteria": {
+      "has_compressed_granite_x3": "2025-08-13 14:37:45 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_3": {
+    "criteria": {
+      "has_compressed_diorite_x2": "2025-08-13 15:11:39 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_2_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x2": "2025-08-13 15:11:39 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_5": {
+    "criteria": {
+      "has_compressed_diorite_x4": "2025-08-13 15:19:39 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_4_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x4": "2025-08-13 15:19:39 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_5_uncraft": {
+    "criteria": {
+      "has_compressed_diorite_x5": "2025-08-13 15:19:44 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diorite_6": {
+    "criteria": {
+      "has_compressed_diorite_x5": "2025-08-13 15:19:44 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_from_blasting": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:48:55 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_from_smelting": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:48:55 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/fluid_conduit": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:49:32 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/item_conduit": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:49:32 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/energy_conduit": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:49:32 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/redstone_conduit": {
+    "criteria": {
+      "has_ingredient": "2025-08-13 15:49:32 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-13 16:29:15 +0700"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-08-14 12:28:16 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-08-14 13:05:15 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-08-14 13:54:34 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-08-14 13:54:34 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-08-14 13:54:34 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-08-14 15:58:56 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-08-14 15:52:53 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-08-14 14:56:22 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/redstone_1": {
+    "criteria": {
+      "has_redstone": "2025-08-14 15:27:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_feeding_upgrade_from_backpack_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-14 15:58:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-14 15:27:23 +0700"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2025-08-14 15:01:22 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-08-14 14:56:22 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_feeding_upgrade_from_backpack_advanced_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-14 15:59:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-08-14 20:17:37 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-14 14:56:22 +0700"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-14 16:28:37 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-14 14:56:22 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-08-14 15:04:23 +0700"
     },
     "done": true
   },
