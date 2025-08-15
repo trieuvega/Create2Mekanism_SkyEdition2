@@ -11457,15 +11457,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+  "create:drain": {
     "criteria": {
-      "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/cell_workbench": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+      "0": "2025-08-14 16:03:53 +0700"
     },
     "done": true
   },
@@ -11476,9 +11470,21 @@
     },
     "done": false
   },
-  "ae2:recipes/misc/network/upgrade_wireless_crafting_terminal": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+      "entered_nether": "2025-08-14 16:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-14 16:36:18 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
     },
     "done": true
   },
@@ -11488,33 +11494,9 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/netcable_red": {
-    "criteria": {
-      "nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "expatternprovider:recipes/misc/assembler_matrix_wall": {
-    "criteria": {
-      "has_item": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/quantum_ring": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
-  "megacells:recipes/misc/crafting/mega_crafting_unit": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
     },
     "done": true
   },
@@ -11530,69 +11512,15 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/assembler_matrix_glass": {
-    "criteria": {
-      "has_item": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
     },
     "done": true
   },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-08-14 16:47:21 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/materials/formationcore": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/energy_level_emitter": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/frame/gold": {
-    "criteria": {
-      "has_item": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
-    "criteria": {
-      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/network_memory_card": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-08-14 16:36:18 +0700"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_routing": {
-    "criteria": {
-      "nugget": "2025-08-14 16:42:04 +0700"
     },
     "done": true
   },
@@ -11608,51 +11536,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/tunnels_me": {
-    "criteria": {
-      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/storage_drive": {
-    "criteria": {
-      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_yellow": {
-    "criteria": {
-      "nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/level_emitter": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/spatial_components": {
-    "criteria": {
-      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_blue": {
-    "criteria": {
-      "nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
     },
     "done": true
   },
@@ -11662,45 +11548,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/terminals": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/terminals_crafting": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-08-14 16:47:21 +0700"
-    },
-    "done": false
-  },
-  "merequester:recipes/requester": {
-    "criteria": {
-      "has_item": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/materials/advancedcard": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
     },
     "done": true
   },
@@ -11722,51 +11572,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-08-14 16:49:50 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/materials/annihilationcore": {
-    "criteria": {
-      "has_logic_processor": "2025-08-14 18:22:57 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/spatial_io_port": {
-    "criteria": {
-      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
-    },
-    "done": true
-  },
-  "projectexpansion:cyan_fuel": {
-    "criteria": {
-      "cyan_fuel": "2025-08-14 17:16:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "projectexpansion:cyan_matter": {
-    "criteria": {
-      "cyan_matter": "2025-08-14 17:15:31 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/network_tool": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
     },
     "done": true
   },
@@ -11776,51 +11584,9 @@
     },
     "done": true
   },
-  "rftoolsbase:recipes/rftoolsbase/machine_base": {
-    "criteria": {
-      "gold": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-08-14 16:47:43 +0700"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-08-14 16:47:43 +0700"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_green": {
-    "criteria": {
-      "nugget": "2025-08-14 16:42:04 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-14 16:36:18 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-14 16:38:53 +0700"
-    },
-    "done": true
-  },
-  "create:drain": {
-    "criteria": {
-      "0": "2025-08-14 16:03:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/materials/basiccard": {
-    "criteria": {
-      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
     },
     "done": true
   },
@@ -11836,9 +11602,279 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-08-14 16:42:04 +0700"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-14 16:47:21 +0700"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-08-14 16:47:21 +0700"
+    },
+    "done": false
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-08-14 16:47:43 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-14 16:47:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-14 16:49:50 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:cyan_matter": {
+    "criteria": {
+      "cyan_matter": "2025-08-14 17:15:31 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:cyan_fuel": {
+    "criteria": {
+      "cyan_fuel": "2025-08-14 17:16:01 +0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_wall": {
+    "criteria": {
+      "has_item": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/mega_crafting_unit": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_glass": {
+    "criteria": {
+      "has_item": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-14 18:22:57 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-14 18:23:02 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/cell_workbench": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/upgrade_wireless_crafting_terminal": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/energy_level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_memory_card": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/advancedcard": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_tool": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/basiccard": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/crafting/cpu_crafting_unit": {
     "criteria": {
       "has_calculation_processor": "2025-08-14 18:23:05 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-08-15 14:48:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-15 15:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-15 15:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-15 15:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-15 15:18:15 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/acacia_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-08-15 15:18:15 +0700"
     },
     "done": true
   },

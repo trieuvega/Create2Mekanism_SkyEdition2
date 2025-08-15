@@ -3,7 +3,7 @@
 
 	[MachineCoreConfig.LatexProcessingUnitConfig]
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
-		maxProgress = 100
+		maxProgress = 20
 		#Amount of Power Consumed per Tick - Default: [400FE]
 		powerPerTick = 20
 		#Max Stored Power [FE] - Default: [10000 FE]
@@ -15,7 +15,7 @@
 
 	[MachineCoreConfig.FluidExtractorConfig]
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
-		maxProgress = 100
+		maxProgress = 20
 		#Amount of Power Consumed per Operation - Default: [10FE] - This is Calculated as [VALUE * (amount + 1)]
 		powerPerOperation = 500
 		#Max Stored Power [FE] - Default: [10000 FE]
@@ -25,7 +25,7 @@
 
 	[MachineCoreConfig.DissolutionChamberConfig]
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
-		maxProgress = 100
+		maxProgress = 20
 		#Amount of Power Consumed per Tick - Default: [60FE]
 		powerPerTick = 90
 		#Max Stored Power [FE] - Default: [10000 FE]
