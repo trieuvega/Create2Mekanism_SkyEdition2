@@ -12198,6 +12198,7 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
+      "overcast_columns": "2025-08-18 17:51:53 +0700",
       "deeplands": "2025-08-11 14:10:39 +0700",
       "blooming_caverns": "2025-08-11 14:13:50 +0700"
     },
@@ -12273,6 +12274,7 @@
     "criteria": {
       "shattered": "2025-08-11 14:18:04 +0700",
       "phantom": "2025-08-11 14:31:15 +0700",
+      "shriek_worm": "2025-08-18 17:51:59 +0700",
       "sculk_centipede": "2025-08-11 14:18:17 +0700",
       "warden": "2025-08-11 14:23:09 +0700",
       "sculk_snapper": "2025-08-11 14:29:04 +0700"
@@ -13986,6 +13988,264 @@
   "create:compacting": {
     "criteria": {
       "0": "2025-08-18 13:00:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
+    "criteria": {
+      "has_item": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/redstone/redstone_from_blasting_sculk_stone_redstone_ore": {
+    "criteria": {
+      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/navy_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/copper_ingot_from_smelting_sculk_stone_copper_ore": {
+    "criteria": {
+      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/copper_ingot_from_blasting_sculk_stone_copper_ore": {
+    "criteria": {
+      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/redstone/redstone_from_smelting_sculk_stone_redstone_ore": {
+    "criteria": {
+      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-18 17:34:01 +0700"
     },
     "done": true
   },

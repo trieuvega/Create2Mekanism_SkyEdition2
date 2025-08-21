@@ -11878,5 +11878,17 @@
     },
     "done": true
   },
+  "compressium:recipes/building_blocks/sand_2": {
+    "criteria": {
+      "has_compressed_sand_x1": "2025-08-18 14:06:36 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/sand_1_uncraft": {
+    "criteria": {
+      "has_compressed_sand_x1": "2025-08-18 14:06:36 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
