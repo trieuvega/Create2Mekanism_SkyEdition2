@@ -14015,12 +14015,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
@@ -14039,27 +14033,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/redstone/redstone_from_blasting_sculk_stone_redstone_ore": {
-    "criteria": {
-      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/rose_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
     },
     "done": true
   },
@@ -14072,12 +14048,6 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/copper_ingot_from_smelting_sculk_stone_copper_ore": {
-    "criteria": {
-      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
     },
     "done": true
   },
@@ -14096,18 +14066,6 @@
   "dyenamics:recipes/misc/wine_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/copper_ingot_from_blasting_sculk_stone_copper_ore": {
-    "criteria": {
-      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
     },
     "done": true
   },
@@ -14165,21 +14123,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/redstone/redstone_from_smelting_sculk_stone_redstone_ore": {
-    "criteria": {
-      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
     },
     "done": true
   },
@@ -14201,12 +14147,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-08-18 17:34:01 +0700"
@@ -14216,12 +14156,6 @@
   "dyenamics:recipes/misc/cherenkov_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
-    "criteria": {
-      "has_gloomslate": "2025-08-18 17:52:07 +0700"
     },
     "done": true
   },
@@ -14246,6 +14180,108 @@
   "dyenamics:recipes/misc/mint_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-18 17:34:01 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/copper_ingot_from_smelting_sculk_stone_copper_ore": {
+    "criteria": {
+      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/copper_ingot_from_blasting_sculk_stone_copper_ore": {
+    "criteria": {
+      "has_sculk_stone_copper_ore": "2025-08-18 17:47:51 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/redstone/redstone_from_blasting_sculk_stone_redstone_ore": {
+    "criteria": {
+      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/redstone/redstone_from_smelting_sculk_stone_redstone_ore": {
+    "criteria": {
+      "has_sculk_stone_redstone_ore": "2025-08-18 17:47:56 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
+    "criteria": {
+      "has_gloomslate": "2025-08-18 17:52:07 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_2_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x2": "2025-08-21 13:40:33 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_3": {
+    "criteria": {
+      "has_compressed_andesite_x2": "2025-08-21 13:40:33 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_4_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x4": "2025-08-21 13:40:41 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_5": {
+    "criteria": {
+      "has_compressed_andesite_x4": "2025-08-21 13:40:41 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_5_uncraft": {
+    "criteria": {
+      "has_compressed_andesite_x5": "2025-08-21 13:40:46 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/andesite_6": {
+    "criteria": {
+      "has_compressed_andesite_x5": "2025-08-21 13:40:46 +0700"
     },
     "done": true
   },
