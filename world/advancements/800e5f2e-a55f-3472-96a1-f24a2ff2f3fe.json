@@ -6687,6 +6687,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-05 13:37:32 +0700",
+      "minecraft:spider": "2025-08-22 14:37:48 +0700",
       "minecraft:creeper": "2025-08-05 13:37:26 +0700",
       "minecraft:wither_skeleton": "2025-08-14 16:50:41 +0700",
       "minecraft:zombie": "2025-08-05 13:37:35 +0700",
@@ -11887,6 +11888,132 @@
   "compressium:recipes/building_blocks/sand_1_uncraft": {
     "criteria": {
       "has_compressed_sand_x1": "2025-08-18 14:06:36 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-08-22 14:46:25 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_vier": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:07 +0700"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/misc/plastic": {
+    "criteria": {
+      "has_plastic": "2025-08-22 13:34:12 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:green_fuel": {
+    "criteria": {
+      "green_fuel": "2025-08-22 15:59:17 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-22 15:13:37 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_omega": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:27 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:lime_fuel": {
+    "criteria": {
+      "lime_fuel": "2025-08-22 15:59:37 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_feeding_upgrade_from_backpack_advanced_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-22 16:56:09 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-22 17:00:01 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:infinite_fuel": {
+    "criteria": {
+      "infinite_fuel": "2025-08-22 15:30:06 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-22 15:13:51 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:22 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2025-08-22 15:22:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-08-22 14:46:25 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_drei": {
+    "criteria": {
+      "has_components": "2025-08-22 15:21:07 +0700"
     },
     "done": true
   },

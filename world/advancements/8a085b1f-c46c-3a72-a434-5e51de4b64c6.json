@@ -5977,6 +5977,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-05 13:38:03 +0700",
+      "minecraft:spider": "2025-08-22 17:00:35 +0700",
       "minecraft:creeper": "2025-08-05 13:37:52 +0700",
       "minecraft:wither": "2025-08-08 12:58:54 +0700",
       "minecraft:phantom": "2025-08-11 14:31:15 +0700",
@@ -14282,6 +14283,90 @@
   "compressium:recipes/building_blocks/andesite_6": {
     "criteria": {
       "has_compressed_andesite_x5": "2025-08-21 13:40:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2025-08-22 13:39:37 +0700"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-08-22 15:18:03 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_vier": {
+    "criteria": {
+      "has_components": "2025-08-22 15:25:27 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_drei": {
+    "criteria": {
+      "has_components": "2025-08-22 15:25:27 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_omega": {
+    "criteria": {
+      "has_components": "2025-08-22 15:25:58 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2025-08-22 15:25:58 +0700"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2025-08-22 15:25:59 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:infinite_fuel": {
+    "criteria": {
+      "infinite_fuel": "2025-08-22 15:29:57 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-22 17:00:40 +0700"
     },
     "done": true
   },
