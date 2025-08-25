@@ -11891,87 +11891,21 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/void_chassis": {
-    "criteria": {
-      "has_ingredient": "2025-08-22 13:40:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-08-22 14:46:25 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/klein_star_vier": {
-    "criteria": {
-      "has_components": "2025-08-22 15:22:07 +0700"
-    },
-    "done": true
-  },
   "industrialforegoing:recipes/misc/plastic": {
     "criteria": {
       "has_plastic": "2025-08-22 13:34:12 +0700"
     },
     "done": true
   },
-  "projectexpansion:green_fuel": {
+  "enderio:recipes/misc/void_chassis": {
     "criteria": {
-      "green_fuel": "2025-08-22 15:59:17 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-08-22 15:13:37 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/klein_star_omega": {
-    "criteria": {
-      "has_components": "2025-08-22 15:22:27 +0700"
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
     },
     "done": true
   },
   "enderio:recipes/building_blocks/reinforced_obsidian_block": {
     "criteria": {
       "has_ingredient": "2025-08-22 13:40:01 +0700"
-    },
-    "done": true
-  },
-  "projectexpansion:lime_fuel": {
-    "criteria": {
-      "lime_fuel": "2025-08-22 15:59:37 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_advanced_feeding_upgrade_from_backpack_advanced_feeding_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-08-22 16:56:09 +0700"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-08-22 17:00:01 +0700"
-    },
-    "done": true
-  },
-  "projectexpansion:infinite_fuel": {
-    "criteria": {
-      "infinite_fuel": "2025-08-22 15:30:06 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-08-22 15:13:51 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/klein_star_sphere": {
-    "criteria": {
-      "has_components": "2025-08-22 15:22:22 +0700"
     },
     "done": true
   },
@@ -11993,9 +11927,15 @@
     },
     "done": true
   },
-  "projecte:klein_star_omega": {
+  "enderio:recipes/misc/infinity_rod": {
     "criteria": {
-      "klein_star": "2025-08-22 15:22:45 +0700"
+      "has_ingredient": "2025-08-22 13:40:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-08-22 14:46:25 +0700"
     },
     "done": true
   },
@@ -12005,15 +11945,93 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/infinity_rod": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_ingredient": "2025-08-22 13:40:01 +0700"
+      "has_gold_backpack": "2025-08-22 15:13:37 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-22 15:13:51 +0700"
     },
     "done": true
   },
   "projecte:recipes/tools/klein_star_drei": {
     "criteria": {
       "has_components": "2025-08-22 15:21:07 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_vier": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:07 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:22 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_omega": {
+    "criteria": {
+      "has_components": "2025-08-22 15:22:27 +0700"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2025-08-22 15:22:45 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:infinite_fuel": {
+    "criteria": {
+      "infinite_fuel": "2025-08-22 15:30:06 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:green_fuel": {
+    "criteria": {
+      "green_fuel": "2025-08-22 15:59:17 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:lime_fuel": {
+    "criteria": {
+      "lime_fuel": "2025-08-22 15:59:37 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_feeding_upgrade_from_backpack_advanced_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-22 16:56:09 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-22 17:00:01 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-25 13:08:45 +0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2025-08-25 15:06:49 +0700"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-08-25 16:32:15 +0700"
     },
     "done": true
   },
