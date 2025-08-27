@@ -67,7 +67,7 @@
 	autoCrafterEnabled = true
 	#How long a single Ender Crafter crafting operation should take (in seconds) by default.
 	#Range: > 1
-	defaultTimeRequired = 30
+	defaultTimeRequired = 10
 	#How much a single Ender Alternator should speed up a craft. This is a percentage of the time required.
 	#Range: 0.0 ~ 1.0
 	alternatorEffectiveness = 0.01
@@ -86,7 +86,7 @@
 	autoCrafterEnabled = true
 	#How much FE/t the Flux Crafter should pull from each Flux Alternator when crafting by default.
 	#Range: > 0
-	defaultPowerRate = 400
+	defaultPowerRate = 100
 	#How much FE the Flux Alternator should hold.
 	#Range: > 0
 	powerCapacity = 80000

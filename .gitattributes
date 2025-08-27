@@ -1,0 +1,2 @@
+simplebackups/ filter=lfs diff=lfs merge=lfs -text
+simplebackups/*.zip filter=lfs diff=lfs merge=lfs -text

@@ -5982,6 +5982,7 @@
       "minecraft:spider": "2025-08-22 17:00:35 +0700",
       "minecraft:creeper": "2025-08-05 13:37:52 +0700",
       "minecraft:wither": "2025-08-08 12:58:54 +0700",
+      "minecraft:slime": "2025-08-27 23:30:06 +0700",
       "minecraft:phantom": "2025-08-11 14:31:15 +0700",
       "minecraft:zombified_piglin": "2025-08-08 01:57:20 +0700",
       "minecraft:wither_skeleton": "2025-08-08 01:54:18 +0700",
@@ -14579,99 +14580,33 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+      "has_iron_ore": "2025-08-27 13:50:55 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+      "has_iron_ore": "2025-08-27 13:50:55 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_lapis_ore": "2025-08-27 14:17:22 +0700"
+      "has_coal_ore": "2025-08-27 13:52:12 +0700"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_lime_industrial_lamp": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_small_lime_industrial_lamp": "2025-08-27 15:42:06 +0700"
+      "has_coal_ore": "2025-08-27 13:52:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
+  "mekanism:materials": {
     "criteria": {
-      "has_raw_iron": "2025-08-27 15:39:03 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/quantum_link": {
-    "criteria": {
-      "has_fluix_pearl": "2025-08-27 14:38:25 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_part": {
-    "criteria": {
-      "has_fluix_pearl": "2025-08-27 14:38:25 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/green_industrial_lamp": {
-    "criteria": {
-      "has_green_industrial_lamp": "2025-08-27 15:42:04 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:06 +0700"
+      "material": "2025-08-27 13:53:11 +0700"
     },
     "done": true
   },
@@ -14681,15 +14616,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-08-27 14:12:48 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
@@ -14705,183 +14652,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_256k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/io_condenser": {
-    "criteria": {
-      "has_dusts/fluix": "2025-08-27 14:38:08 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-27 15:39:03 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_cyan": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_64k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/toggle_bus": {
-    "criteria": {
-      "has_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_green": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-08-27 14:17:24 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-08-27 13:50:55 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_candle": {
-    "criteria": {
-      "has_lime_dye": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-27 13:52:12 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:04 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_lime": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/covered_fluix": {
-    "criteria": {
-      "has_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/network_color_applicator": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-27 15:39:03 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_gray": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
-    "criteria": {
-      "has_glass_cable": "2025-08-27 14:47:55 +0700"
     },
     "done": true
   },
@@ -14903,9 +14682,255 @@
     },
     "done": true
   },
-  "appmek:recipes/misc/portable_chemical_storage_cell_16k": {
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-08-27 14:17:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-08-27 14:17:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-08-27 14:17:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-08-27 14:17:24 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_condenser": {
+    "criteria": {
+      "has_dusts/fluix": "2025-08-27 14:38:08 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_link": {
+    "criteria": {
+      "has_fluix_pearl": "2025-08-27 14:38:25 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_part": {
+    "criteria": {
+      "has_fluix_pearl": "2025-08-27 14:38:25 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2025-08-27 14:47:55 +0700"
     },
     "done": true
   },
@@ -14921,81 +14946,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
-    "criteria": {
-      "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
   "megacells:recipes/misc/network/cell_dock": {
     "criteria": {
       "has_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_lime": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_lime": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2025-08-27 14:12:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-08-27 15:42:04 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-08-27 13:50:55 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
@@ -15005,63 +14958,75 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-08-27 13:53:11 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_magenta": {
     "criteria": {
       "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_green_industrial_lamp": {
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
     "criteria": {
-      "has_small_green_industrial_lamp": "2025-08-27 15:42:04 +0700"
+      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
     "criteria": {
-      "has_copper_ore": "2025-08-27 14:17:24 +0700"
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
     "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:04 +0700"
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
     "criteria": {
-      "has_coal_ore": "2025-08-27 13:52:12 +0700"
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
     "criteria": {
-      "has_needed_dye": "2025-08-27 15:42:04 +0700"
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+    },
+    "done": true
+  },
+  "appmek:recipes/misc/portable_chemical_storage_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2025-08-27 14:49:00 +0700"
     },
     "done": true
   },
   "appmek:recipes/misc/portable_chemical_storage_cell_1k": {
     "criteria": {
       "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
@@ -15083,57 +15048,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/portable_item_cell_16k": {
     "criteria": {
       "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_gray": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-08-27 14:47:55 +0700"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/lime_industrial_lamp": {
-    "criteria": {
-      "has_lime_industrial_lamp": "2025-08-27 15:42:06 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_green": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:04 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_green": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:04 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
     },
     "done": true
   },
@@ -15143,21 +15060,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/portable_item_cell_4k": {
     "criteria": {
       "has_energy_cell": "2025-08-27 14:49:00 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_green": {
-    "criteria": {
-      "has_dyes/black": "2025-08-27 15:42:04 +0700"
     },
     "done": true
   },
@@ -15167,33 +15072,189 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+      "has_raw_iron": "2025-08-27 15:39:03 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-08-27 14:12:53 +0700"
+      "has_raw_iron": "2025-08-27 15:39:03 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+      "has_raw_iron": "2025-08-27 15:39:03 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+  "ad_astra:recipes/misc/green_industrial_lamp": {
     "criteria": {
-      "has_stone_types_tuff": "2025-08-27 14:16:11 +0700"
+      "has_green_industrial_lamp": "2025-08-27 15:42:04 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
-      "has_lapis_ore": "2025-08-27 14:17:22 +0700"
+      "has_needed_dye": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_green_industrial_lamp": {
+    "criteria": {
+      "has_small_green_industrial_lamp": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:04 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_lime_industrial_lamp": {
+    "criteria": {
+      "has_small_lime_industrial_lamp": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_lime": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_lime": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_lime": {
+    "criteria": {
+      "has_dyes/black": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_industrial_lamp": {
+    "criteria": {
+      "has_lime_industrial_lamp": "2025-08-27 15:42:06 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_2_uncraft": {
+    "criteria": {
+      "has_compressed_netherrack_x2": "2025-08-27 23:21:44 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_3": {
+    "criteria": {
+      "has_compressed_netherrack_x2": "2025-08-27 23:21:44 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_5": {
+    "criteria": {
+      "has_compressed_netherrack_x4": "2025-08-27 23:25:20 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_6": {
+    "criteria": {
+      "has_compressed_netherrack_x5": "2025-08-27 23:25:24 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/obsidian_4": {
+    "criteria": {
+      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk3": {
+    "criteria": {
+      "has_previous": "2025-08-27 23:08:58 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/obsidian_3_uncraft": {
+    "criteria": {
+      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk3": {
+    "criteria": {
+      "has_previous": "2025-08-27 22:59:29 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_4_uncraft": {
+    "criteria": {
+      "has_compressed_netherrack_x4": "2025-08-27 23:25:20 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherrack_5_uncraft": {
+    "criteria": {
+      "has_compressed_netherrack_x5": "2025-08-27 23:25:24 +0700"
     },
     "done": true
   },
