@@ -14375,9 +14375,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "has_purple_dye": "2025-08-25 13:09:30 +0700"
+      "has_nether_gold_ore": "2025-08-25 11:06:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-08-25 11:06:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-25 11:12:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-25 11:12:00 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-08-25 11:42:47 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-08-25 11:42:47 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-08-25 11:42:47 +0700"
     },
     "done": true
   },
@@ -14387,9 +14423,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_purple_dye": "2025-08-25 13:09:30 +0700"
+      "killed_ghast": "2025-08-25 12:43:54 +0700"
     },
     "done": true
   },
@@ -14399,27 +14435,27 @@
     },
     "done": true
   },
-  "exdeorum:recipes/tools/golden_watering_can": {
+  "compressium:recipes/building_blocks/diamond_3": {
     "criteria": {
-      "has_item": "2025-08-25 13:30:58 +0700"
+      "has_compressed_diamond_x2": "2025-08-25 12:54:16 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "has_nether_gold_ore": "2025-08-25 11:06:34 +0700"
+      "has_purple_dye": "2025-08-25 13:09:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-08-25 13:09:30 +0700"
     },
     "done": true
   },
   "ad_astra:recipes/misc/small_purple_industrial_lamp": {
     "criteria": {
       "has_small_purple_industrial_lamp": "2025-08-25 13:09:30 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/copper_1_uncraft": {
-    "criteria": {
-      "has_compressed_copper_x1": "2025-08-25 15:12:00 +0700"
     },
     "done": true
   },
@@ -14435,18 +14471,6 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/copper_2": {
-    "criteria": {
-      "has_compressed_copper_x1": "2025-08-25 15:12:00 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
-    "criteria": {
-      "has_item": "2025-08-25 11:42:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2025-08-25 13:09:30 +0700"
@@ -14456,48 +14480,6 @@
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-25 13:09:30 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/diamond_watering_can": {
-    "criteria": {
-      "has_item": "2025-08-25 13:30:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-08-25 11:12:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-08-25 12:43:54 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-08-25 11:12:00 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
-    "criteria": {
-      "has_item": "2025-08-25 11:42:47 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/wooden_watering_can": {
-    "criteria": {
-      "has_item": "2025-08-25 13:30:58 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/iron_watering_can": {
-    "criteria": {
-      "has_item": "2025-08-25 13:30:58 +0700"
     },
     "done": true
   },
@@ -14513,45 +14495,9 @@
     },
     "done": true
   },
-  "enderio:recipes/building_blocks/pressurized_fluid_conduit_upgrade": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 17:16:46 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diamond_3": {
-    "criteria": {
-      "has_compressed_diamond_x2": "2025-08-25 12:54:16 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/pressurized_fluid_conduit": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 17:16:46 +0700"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/stone_watering_can": {
-    "criteria": {
-      "has_item": "2025-08-25 13:30:58 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
-    "criteria": {
-      "has_item": "2025-08-25 11:42:47 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-25 13:09:30 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-25 13:32:29 +0700"
     },
     "done": true
   },
@@ -14561,15 +14507,75 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/golden_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-25 13:30:58 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-25 13:30:58 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/wooden_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-25 13:30:58 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/iron_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-25 13:30:58 +0700"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/stone_watering_can": {
+    "criteria": {
+      "has_item": "2025-08-25 13:30:58 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-25 13:32:29 +0700"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-08-25 14:13:45 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+  "compressium:recipes/building_blocks/copper_1_uncraft": {
     "criteria": {
-      "has_nether_gold_ore": "2025-08-25 11:06:34 +0700"
+      "has_compressed_copper_x1": "2025-08-25 15:12:00 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/copper_2": {
+    "criteria": {
+      "has_compressed_copper_x1": "2025-08-25 15:12:00 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/pressurized_fluid_conduit_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 17:16:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/pressurized_fluid_conduit": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 17:16:46 +0700"
+    },
+    "done": true
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-08-27 11:29:37 +0700"
     },
     "done": true
   },
