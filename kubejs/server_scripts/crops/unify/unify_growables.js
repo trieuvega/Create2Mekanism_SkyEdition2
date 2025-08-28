@@ -59,8 +59,8 @@ function soils_botany_pots(event, soil) {
 function crops_botany_pots(event, type, crop) {
     // Ticks Per Day: 24000
     // Ticks Per Minute: 1200
-    var baseGrowthTicks = 6400,
-        growthModifier = 1.0;
+    var baseGrowthTicks = 20,
+        growthModifier = 10.0;
 
     // chance, minRolls, maxRolls
     var primary = [1.0, 10, 20],
@@ -150,8 +150,8 @@ function crops_botany_pots(event, type, crop) {
 function trees_botany_pots(event, type, tree) {
     // Ticks Per Day: 24000
     // Ticks Per Minute: 1200
-    var baseGrowthTicks = 6400,
-        growthModifier = 1.0;
+    var baseGrowthTicks = 20,
+        growthModifier = 10.0;
 
     // chance, minRolls, maxRolls
     var saplingRate = [1.0, 3, 6],

@@ -15198,6 +15198,30 @@
     },
     "done": true
   },
+  "compressium:recipes/building_blocks/obsidian_4": {
+    "criteria": {
+      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/obsidian_3_uncraft": {
+    "criteria": {
+      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk3": {
+    "criteria": {
+      "has_previous": "2025-08-27 22:59:29 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk3": {
+    "criteria": {
+      "has_previous": "2025-08-27 23:08:58 +0700"
+    },
+    "done": true
+  },
   "compressium:recipes/building_blocks/netherrack_2_uncraft": {
     "criteria": {
       "has_compressed_netherrack_x2": "2025-08-27 23:21:44 +0700"
@@ -15216,45 +15240,189 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/netherrack_6": {
-    "criteria": {
-      "has_compressed_netherrack_x5": "2025-08-27 23:25:24 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/obsidian_4": {
-    "criteria": {
-      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/relay_mk3": {
-    "criteria": {
-      "has_previous": "2025-08-27 23:08:58 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/obsidian_3_uncraft": {
-    "criteria": {
-      "has_compressed_obsidian_x3": "2025-08-27 22:53:32 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/collector_mk3": {
-    "criteria": {
-      "has_previous": "2025-08-27 22:59:29 +0700"
-    },
-    "done": true
-  },
   "compressium:recipes/building_blocks/netherrack_4_uncraft": {
     "criteria": {
       "has_compressed_netherrack_x4": "2025-08-27 23:25:20 +0700"
     },
     "done": true
   },
+  "compressium:recipes/building_blocks/netherrack_6": {
+    "criteria": {
+      "has_compressed_netherrack_x5": "2025-08-27 23:25:24 +0700"
+    },
+    "done": true
+  },
   "compressium:recipes/building_blocks/netherrack_5_uncraft": {
     "criteria": {
       "has_compressed_netherrack_x5": "2025-08-27 23:25:24 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_light_gray_industrial_lamp": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_industrial_lamp": {
+    "criteria": {
+      "has_light_gray_industrial_lamp": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 18:56:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-28 19:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-08-28 19:02:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-08-28 19:02:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-08-28 19:02:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-08-28 19:02:51 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_industrial_lamp": {
+    "criteria": {
+      "has_brown_industrial_lamp": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_brown_industrial_lamp": {
+    "criteria": {
+      "has_small_brown_industrial_lamp": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-28 19:13:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-08-28 19:13:06 +0700"
     },
     "done": true
   },
