@@ -12041,6 +12041,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-27 13:52:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-27 13:52:55 +0700"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-08-27 13:54:04 +0700"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/spring_green_dye": {
     "criteria": {
       "has_glowstone": "2025-08-27 13:56:00 +0700"
@@ -12065,57 +12083,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-27 13:52:55 +0700"
-    },
-    "done": true
-  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-08-27 13:56:00 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/obsidian_3": {
-    "criteria": {
-      "has_compressed_obsidian_x2": "2025-08-27 15:37:09 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/obsidian_4": {
-    "criteria": {
-      "has_compressed_obsidian_x3": "2025-08-27 15:37:53 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/relay_mk2": {
-    "criteria": {
-      "has_previous": "2025-08-27 15:28:17 +0700"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/relay_mk3": {
-    "criteria": {
-      "has_previous": "2025-08-27 15:42:39 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/diamond_1_uncraft": {
-    "criteria": {
-      "has_compressed_diamond_x1": "2025-08-27 15:37:46 +0700"
-    },
-    "done": true
-  },
-  "projectexpansion:relay": {
-    "criteria": {
-      "relay": "2025-08-27 15:50:36 +0700"
-    },
-    "done": true
-  },
-  "projecte:relay": {
-    "criteria": {
-      "relay": "2025-08-27 15:28:17 +0700"
     },
     "done": true
   },
@@ -12131,27 +12101,9 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-08-27 13:54:04 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-27 13:56:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-27 13:52:55 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/obsidian_2_uncraft": {
-    "criteria": {
-      "has_compressed_obsidian_x2": "2025-08-27 15:37:09 +0700"
     },
     "done": true
   },
@@ -12161,15 +12113,57 @@
     },
     "done": true
   },
+  "industrialrenewal:recipes/misc/fluorescent": {
+    "criteria": {
+      "has_item": "2025-08-27 13:56:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-27 13:56:00 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk2": {
+    "criteria": {
+      "has_previous": "2025-08-27 15:28:17 +0700"
+    },
+    "done": true
+  },
+  "projecte:relay": {
+    "criteria": {
+      "relay": "2025-08-27 15:28:17 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/obsidian_3": {
+    "criteria": {
+      "has_compressed_obsidian_x2": "2025-08-27 15:37:09 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/obsidian_2_uncraft": {
+    "criteria": {
+      "has_compressed_obsidian_x2": "2025-08-27 15:37:09 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/diamond_1_uncraft": {
+    "criteria": {
+      "has_compressed_diamond_x1": "2025-08-27 15:37:46 +0700"
+    },
+    "done": true
+  },
   "compressium:recipes/building_blocks/diamond_2": {
     "criteria": {
       "has_compressed_diamond_x1": "2025-08-27 15:37:46 +0700"
     },
     "done": true
   },
-  "industrialrenewal:recipes/misc/fluorescent": {
+  "compressium:recipes/building_blocks/obsidian_4": {
     "criteria": {
-      "has_item": "2025-08-27 13:56:00 +0700"
+      "has_compressed_obsidian_x3": "2025-08-27 15:37:53 +0700"
     },
     "done": true
   },
@@ -12179,9 +12173,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "projecte:recipes/decorations/relay_mk3": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-27 13:56:00 +0700"
+      "has_previous": "2025-08-27 15:42:39 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:relay": {
+    "criteria": {
+      "relay": "2025-08-27 15:50:36 +0700"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk3": {
+    "criteria": {
+      "has_previous": "2025-08-30 12:06:35 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:collector": {
+    "criteria": {
+      "collector": "2025-08-30 12:07:11 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:compressed_collector": {
+    "criteria": {
+      "compressed_collector": "2025-08-30 12:07:14 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:green_matter": {
+    "criteria": {
+      "green_matter": "2025-08-30 19:40:26 +0700"
     },
     "done": true
   },
