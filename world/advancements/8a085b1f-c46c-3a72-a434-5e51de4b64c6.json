@@ -5983,11 +5983,13 @@
       "minecraft:creeper": "2025-08-05 13:37:52 +0700",
       "minecraft:wither": "2025-08-08 12:58:54 +0700",
       "minecraft:slime": "2025-08-27 23:30:06 +0700",
+      "minecraft:evoker": "2025-09-02 16:47:42 +0700",
       "minecraft:phantom": "2025-08-11 14:31:15 +0700",
       "minecraft:zombified_piglin": "2025-08-08 01:57:20 +0700",
       "minecraft:wither_skeleton": "2025-08-08 01:54:18 +0700",
       "minecraft:piglin": "2025-08-25 11:15:45 +0700",
       "minecraft:enderman": "2025-08-08 01:50:37 +0700",
+      "minecraft:vex": "2025-09-02 16:34:26 +0700",
       "minecraft:zombie": "2025-08-05 13:37:47 +0700",
       "quark:foxhound": "2025-08-08 01:49:25 +0700",
       "minecraft:zombie_villager": "2025-08-05 14:32:00 +0700"
@@ -15444,9 +15446,9 @@
     },
     "done": true
   },
-  "mekanism:steel_casing": {
+  "tombstone:adventure/crime_in_town": {
     "criteria": {
-      "steel_casing": "2025-08-30 20:03:33 +0700"
+      "coded_trigger": "2025-08-30 17:34:15 +0700"
     },
     "done": true
   },
@@ -15456,9 +15458,153 @@
     },
     "done": true
   },
-  "tombstone:adventure/crime_in_town": {
+  "mekanism:steel_casing": {
     "criteria": {
-      "coded_trigger": "2025-08-30 17:34:15 +0700"
+      "steel_casing": "2025-08-30 20:03:33 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_fused_quartz_m": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_clear_glass_dm": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_clear_glass_em": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/redstone_2": {
+    "criteria": {
+      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/entity_filter": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:51:11 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/double_layer_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_fused_quartz_dm": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_fused_quartz_em": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/redstone_1_uncraft": {
+    "criteria": {
+      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/xp_obelisk": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:11:38 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_gray_industrial_lamp": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_industrial_lamp": {
+    "criteria": {
+      "has_gray_industrial_lamp": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_clear_glass_m": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-09-02 16:31:53 +0700"
     },
     "done": true
   },
