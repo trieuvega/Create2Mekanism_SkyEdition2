@@ -15464,21 +15464,57 @@
     },
     "done": true
   },
+  "compressium:recipes/building_blocks/redstone_2": {
+    "criteria": {
+      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/redstone_1_uncraft": {
+    "criteria": {
+      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/entity_filter": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:51:11 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/double_layer_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 15:59:46 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/xp_obelisk": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:11:38 +0700"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/collision_token_fused_quartz_m": {
     "criteria": {
       "has_ingredient": "2025-09-02 16:13:58 +0700"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_gray": {
-    "criteria": {
-      "has_dyes/black": "2025-09-02 16:21:08 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_candle": {
-    "criteria": {
-      "has_gray_dye": "2025-09-02 16:21:08 +0700"
     },
     "done": true
   },
@@ -15494,15 +15530,33 @@
     },
     "done": true
   },
-  "compressium:recipes/building_blocks/redstone_2": {
+  "enderio:recipes/building_blocks/collision_token_fused_quartz_dm": {
     "criteria": {
-      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
     },
     "done": true
   },
-  "enderio:recipes/misc/entity_filter": {
+  "enderio:recipes/building_blocks/collision_token_fused_quartz_em": {
     "criteria": {
-      "has_ingredient": "2025-09-02 15:51:11 +0700"
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/collision_token_clear_glass_m": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 16:13:58 +0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-09-02 16:21:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-02 16:21:08 +0700"
     },
     "done": true
   },
@@ -15524,45 +15578,9 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/double_layer_capacitor": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 15:59:46 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/collision_token_fused_quartz_dm": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 16:13:58 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/collision_token_fused_quartz_em": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 16:13:58 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/redstone_1_uncraft": {
-    "criteria": {
-      "has_compressed_redstone_x1": "2025-09-02 14:09:40 +0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_gray": {
     "criteria": {
       "has_dyes/black": "2025-09-02 16:21:08 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/xp_obelisk": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 16:11:38 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/vibrant_capacitor_bank_upgrade": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 15:59:46 +0700"
     },
     "done": true
   },
@@ -15578,33 +15596,57 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/advanced_capacitor_bank": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 15:59:46 +0700"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/collision_token_clear_glass_m": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 16:13:58 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-02 16:21:08 +0700"
     },
     "done": true
   },
-  "enderio:recipes/misc/basic_capacitor_bank": {
-    "criteria": {
-      "has_ingredient": "2025-09-02 15:59:46 +0700"
-    },
-    "done": true
-  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-09-02 16:31:53 +0700"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-09-02 19:52:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-09-02 19:36:51 +0700"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-09-02 19:52:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-09-02 19:36:51 +0700"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-09-02 19:51:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
     },
     "done": true
   },
