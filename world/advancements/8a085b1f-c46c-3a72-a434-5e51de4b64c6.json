@@ -5977,6 +5977,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-09-16 13:50:03 +0700",
       "minecraft:skeleton": "2025-08-05 13:38:03 +0700",
       "minecraft:ghast": "2025-08-25 12:43:54 +0700",
       "minecraft:spider": "2025-08-22 17:00:35 +0700",
@@ -5986,12 +5987,14 @@
       "minecraft:evoker": "2025-09-02 16:47:42 +0700",
       "minecraft:phantom": "2025-08-11 14:31:15 +0700",
       "minecraft:zombified_piglin": "2025-08-08 01:57:20 +0700",
+      "minecraft:witch": "2025-09-15 16:19:01 +0700",
       "minecraft:wither_skeleton": "2025-08-08 01:54:18 +0700",
       "minecraft:piglin": "2025-08-25 11:15:45 +0700",
       "minecraft:enderman": "2025-08-08 01:50:37 +0700",
       "minecraft:vex": "2025-09-02 16:34:26 +0700",
       "minecraft:zombie": "2025-08-05 13:37:47 +0700",
       "quark:foxhound": "2025-08-08 01:49:25 +0700",
+      "minecraft:drowned": "2025-09-15 16:19:44 +0700",
       "minecraft:zombie_villager": "2025-08-05 14:32:00 +0700"
     },
     "done": false
@@ -9497,9 +9500,11 @@
     "criteria": {
       "sky": "2025-08-25 11:42:47 +0700",
       "magma_cream": "2025-08-07 23:48:20 +0700",
-      "earth": "2025-08-07 15:41:36 +0700"
+      "earth": "2025-08-07 15:41:36 +0700",
+      "ichor": "2025-09-15 20:34:04 +0700",
+      "ender": "2025-09-15 20:34:05 +0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
@@ -10825,10 +10830,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-08-08 01:42:20 +0700",
       "minecraft:nether_wastes": "2025-08-08 01:40:05 +0700",
+      "minecraft:soul_sand_valley": "2025-09-16 13:57:29 +0700",
       "minecraft:warped_forest": "2025-08-08 01:48:06 +0700",
       "minecraft:basalt_deltas": "2025-08-25 13:38:08 +0700"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -15608,21 +15614,21 @@
     },
     "done": true
   },
-  "mekanism:basic_control_circuit": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
-      "basic_control_circuit": "2025-09-02 19:52:37 +0700"
+      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-09-02 19:36:51 +0700"
-    },
-    "done": true
-  },
-  "mekanism:advanced_control_circuit": {
-    "criteria": {
-      "advanced_control_circuit": "2025-09-02 19:52:43 +0700"
     },
     "done": true
   },
@@ -15638,15 +15644,681 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+  "mekanism:basic_control_circuit": {
     "criteria": {
-      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
+      "basic_control_circuit": "2025-09-02 19:52:37 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+  "mekanism:advanced_control_circuit": {
     "criteria": {
-      "has_deepslate_gold_ore": "2025-09-02 19:36:18 +0700"
+      "advanced_control_circuit": "2025-09-02 19:52:43 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/ichor/slimeblock": {
+    "criteria": {
+      "has_item": "2025-09-15 20:34:04 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/ichor/congealed": {
+    "criteria": {
+      "has_item": "2025-09-15 20:34:04 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/ender/slimeblock": {
+    "criteria": {
+      "has_item": "2025-09-15 20:34:05 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/ender/congealed": {
+    "criteria": {
+      "has_item": "2025-09-15 20:34:05 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-15 21:15:51 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-15 21:15:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-09-15 21:16:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-09-15 21:16:00 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/vertical_brass_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-15 21:34:56 +0700"
+    },
+    "done": true
+  },
+  "create_connected:brass_gearbox": {
+    "criteria": {
+      "0": "2025-09-15 21:34:57 +0700"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-09-16 12:17:58 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-09-16 12:18:31 +0700"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 13:49:01 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-09-16 13:50:14 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-09-16 13:51:04 +0700"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 13:51:24 +0700"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 13:53:19 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-09-16 13:57:50 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/bloodshroom/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-09-16 13:58:18 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/bloodshroom/planks": {
+    "criteria": {
+      "has_log": "2025-09-16 13:58:18 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/ichor_staff": {
+    "criteria": {
+      "has_wood": "2025-09-16 13:58:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-09-16 14:06:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-16 14:06:12 +0700"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 14:08:04 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-09-16 14:15:56 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/noai": {
+    "criteria": {
+      "modifier": "2025-09-16 14:15:56 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2025-09-16 14:16:34 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/nearbyents": {
+    "criteria": {
+      "modifier": "2025-09-16 14:17:03 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2025-09-16 14:17:41 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/playerrange": {
+    "criteria": {
+      "modifier": "2025-09-16 14:17:44 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-09-16 14:19:43 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/spawncount": {
+    "criteria": {
+      "modifier": "2025-09-16 14:20:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-16 14:22:08 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2025-09-16 14:22:17 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/spawnrange": {
+    "criteria": {
+      "modifier": "2025-09-16 14:41:05 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:violet_fuel": {
+    "criteria": {
+      "violet_fuel": "2025-09-16 15:30:46 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:blue_fuel": {
+    "criteria": {
+      "blue_fuel": "2025-09-16 15:31:16 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:blue_matter": {
+    "criteria": {
+      "blue_matter": "2025-09-16 15:31:16 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:lime_fuel": {
+    "criteria": {
+      "lime_fuel": "2025-09-16 15:31:29 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:green_matter": {
+    "criteria": {
+      "green_matter": "2025-09-16 15:31:38 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:green_fuel": {
+    "criteria": {
+      "green_fuel": "2025-09-16 15:31:38 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:cyan_fuel": {
+    "criteria": {
+      "cyan_fuel": "2025-09-16 15:31:55 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:yellow_fuel": {
+    "criteria": {
+      "yellow_fuel": "2025-09-16 15:32:08 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/high_pressure_pipe": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_steel_pillar": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/lathe": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/catwalk_column_steel": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/ingot_steel": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/building_blocks/block_steel": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/brace_steel": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/building_blocks/frame": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:03 +0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:06 +0700"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/dam_axis": {
+    "criteria": {
+      "has_item": "2025-09-16 15:57:06 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_2_uncraft": {
+    "criteria": {
+      "has_compressed_iron_x2": "2025-09-16 15:57:57 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_3": {
+    "criteria": {
+      "has_compressed_iron_x2": "2025-09-16 15:57:57 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_3_uncraft": {
+    "criteria": {
+      "has_compressed_iron_x3": "2025-09-16 15:58:03 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/iron_4": {
+    "criteria": {
+      "has_compressed_iron_x3": "2025-09-16 15:58:03 +0700"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-09-16 16:01:16 +0700"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-09-16 16:02:14 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/table": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_fuel_tank": "2025-09-17 15:12:37 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-09-17 14:43:08 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherite_1": {
+    "criteria": {
+      "has_netherite": "2025-09-17 14:43:08 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/polished_scorched_stone_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-17 14:51:26 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/structure": {
+    "criteria": {
+      "open_foundry": "2025-09-17 15:13:58 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/drain": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_glass": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/faucet": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/basin": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-09-17 14:43:50 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/lantern": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_soul_glass": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/alloyer": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_5": "2025-09-17 14:43:50 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_fence": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-09-17 14:43:11 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/chute": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_ladder": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-09-17 14:43:11 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/channel": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
     },
     "done": true
   },

@@ -6687,8 +6687,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-05 13:37:32 +0700",
+      "minecraft:ghast": "2025-09-16 14:11:28 +0700",
       "minecraft:spider": "2025-08-22 14:37:48 +0700",
       "minecraft:creeper": "2025-08-05 13:37:26 +0700",
+      "minecraft:slime": "2025-09-15 16:05:55 +0700",
       "minecraft:wither_skeleton": "2025-08-14 16:50:41 +0700",
       "minecraft:zombie": "2025-08-05 13:37:35 +0700",
       "quark:foxhound": "2025-08-14 16:41:17 +0700",
@@ -8402,6 +8404,7 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "nugget": "2025-08-13 16:32:56 +0700",
+      "rod": "2025-09-15 15:42:04 +0700",
       "ingot": "2025-08-06 13:20:24 +0700"
     },
     "done": false
@@ -11467,7 +11470,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-14 16:38:46 +0700",
-      "minecraft:nether_wastes": "2025-08-14 16:36:18 +0700"
+      "minecraft:nether_wastes": "2025-08-14 16:36:18 +0700",
+      "minecraft:soul_sand_valley": "2025-09-16 14:01:27 +0700",
+      "minecraft:basalt_deltas": "2025-09-16 14:00:54 +0700"
     },
     "done": false
   },
@@ -11665,7 +11670,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-08-14 16:47:21 +0700"
+      "opened_barrel": "2025-08-14 16:47:21 +0700",
+      "opened_chest": "2025-09-16 13:53:33 +0700"
     },
     "done": false
   },
@@ -12206,6 +12212,150 @@
   "projectexpansion:green_matter": {
     "criteria": {
       "green_matter": "2025-08-30 19:40:26 +0700"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 14:05:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-09-16 14:08:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 13:53:54 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-09-16 13:17:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 13:53:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 13:53:54 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-09-16 13:56:42 +0700"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 13:56:55 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-09-16 14:06:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "projectexpansion:yellow_fuel": {
+    "criteria": {
+      "yellow_fuel": "2025-09-16 15:32:24 +0700"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-09-16 13:53:33 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-09-16 12:52:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-09-16 13:17:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-16 13:59:02 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-09-16 13:50:10 +0700"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-16 13:54:59 +0700"
     },
     "done": true
   },
