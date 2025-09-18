@@ -1,53 +1,53 @@
-[12:06:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[12:06:07] [INIT] Loaded plugins:
-[12:06:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:06:07] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
-[12:06:07] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[12:06:07] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[12:06:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[12:06:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[12:06:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[12:06:07] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
-[12:06:07] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:06:07] [INIT] - com.almostreliable.morejs.Plugin
-[12:06:07] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[12:06:07] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[12:06:07] [INIT] - com.xiaoyue.tconstruct_js.plugin.TConJSPlugin
-[12:06:07] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[12:06:07] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[12:06:07] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
-[12:06:07] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[12:06:13] [INFO] Loaded script startup_scripts:blocks_modify.js in 0.687 s
-[12:06:13] [INFO] Loaded script startup_scripts:items_modify.js in 0.028 s
-[12:06:13] [INFO] ae2_recipe_support.js#1: Loaded Java class 'appeng.recipes.entropy.EntropyMode'
-[12:06:13] [INFO] ae2_recipe_support.js#2: Loaded Java class 'dev.latvian.mods.kubejs.recipe.schema.RecipeSchema'
-[12:06:13] [INFO] ae2_recipe_support.js#3: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.MapRecipeComponent'
-[12:06:13] [INFO] ae2_recipe_support.js#4: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.RecipeComponentBuilderMap'
-[12:06:13] [INFO] Loaded script startup_scripts:ae2_recipe_support.js in 0.131 s
-[12:06:13] [INFO] Loaded script startup_scripts:blocks_add.js in 0.033 s
-[12:06:14] [INFO] custom_portals.js#2: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
-[12:06:14] [INFO] custom_portals.js#3: Loaded Java class 'net.minecraft.resources.ResourceLocation'
-[12:06:14] [INFO] custom_portals.js#4: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
-[12:06:14] [INFO] custom_portals.js#5: Loaded Java class 'net.minecraft.world.item.Items'
-[12:06:14] [INFO] custom_portals.js#6: Loaded Java class 'net.minecraft.world.item.Item'
-[12:06:14] [INFO] custom_portals.js#7: Loaded Java class 'net.minecraft.world.level.block.Block'
-[12:06:14] [INFO] Loaded script startup_scripts:custom_portals.js in 0.189 s
-[12:06:14] [INFO] Loaded script startup_scripts:fluid_add.js in 0.018 s
-[12:06:14] [INFO] Loaded script startup_scripts:items_add.js in 0.124 s
-[12:06:14] [INFO] mekanism_add.js#1: Loaded Java class 'mekanism.api.chemical.gas.Gas'
-[12:06:14] [INFO] mekanism_add.js#2: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
-[12:06:14] [INFO] mekanism_add.js#33: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
-[12:06:14] [INFO] mekanism_add.js#34: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
-[12:06:14] [INFO] mekanism_add.js#46: Loaded Java class 'mekanism.api.chemical.infuse.InfuseType'
-[12:06:14] [INFO] mekanism_add.js#47: Loaded Java class 'mekanism.api.chemical.infuse.InfuseTypeBuilder'
-[12:06:14] [INFO] mekanism_add.js#56: Loaded Java class 'mekanism.api.chemical.pigment.Pigment'
-[12:06:14] [INFO] mekanism_add.js#57: Loaded Java class 'mekanism.api.chemical.pigment.PigmentBuilder'
-[12:06:14] [INFO] Loaded script startup_scripts:mekanism_add.js in 0.126 s
-[12:06:14] [INFO] Loaded script startup_scripts:migration/items_add.js in 0.002 s
-[12:06:14] [INFO] Loaded script startup_scripts:modnames.js in 0.014 s
-[12:06:14] [INFO] Loaded script startup_scripts:worldgen_add.js in 0.016 s
-[12:06:14] [INFO] Loaded script startup_scripts:worldgen_remove.js in 0.001 s
-[12:06:14] [INFO] Loaded 12/12 KubeJS startup scripts in 5.514 s with 0 errors and 0 warnings
-[12:06:52] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.
-[12:06:52] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.
-[12:06:52] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.
+[06:07:44] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[06:07:44] [INIT] Loaded plugins:
+[06:07:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[06:07:44] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[06:07:44] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[06:07:44] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[06:07:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[06:07:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[06:07:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[06:07:44] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
+[06:07:44] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[06:07:44] [INIT] - com.almostreliable.morejs.Plugin
+[06:07:44] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[06:07:44] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[06:07:44] [INIT] - com.xiaoyue.tconstruct_js.plugin.TConJSPlugin
+[06:07:44] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[06:07:44] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[06:07:44] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[06:07:44] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[06:07:50] [INFO] Loaded script startup_scripts:blocks_modify.js in 0.493 s
+[06:07:50] [INFO] Loaded script startup_scripts:items_modify.js in 0.028 s
+[06:07:50] [INFO] ae2_recipe_support.js#1: Loaded Java class 'appeng.recipes.entropy.EntropyMode'
+[06:07:50] [INFO] ae2_recipe_support.js#2: Loaded Java class 'dev.latvian.mods.kubejs.recipe.schema.RecipeSchema'
+[06:07:50] [INFO] ae2_recipe_support.js#3: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.MapRecipeComponent'
+[06:07:50] [INFO] ae2_recipe_support.js#4: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.RecipeComponentBuilderMap'
+[06:07:50] [INFO] Loaded script startup_scripts:ae2_recipe_support.js in 0.211 s
+[06:07:50] [INFO] Loaded script startup_scripts:blocks_add.js in 0.026 s
+[06:07:50] [INFO] custom_portals.js#2: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
+[06:07:50] [INFO] custom_portals.js#3: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[06:07:50] [INFO] custom_portals.js#4: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[06:07:50] [INFO] custom_portals.js#5: Loaded Java class 'net.minecraft.world.item.Items'
+[06:07:50] [INFO] custom_portals.js#6: Loaded Java class 'net.minecraft.world.item.Item'
+[06:07:51] [INFO] custom_portals.js#7: Loaded Java class 'net.minecraft.world.level.block.Block'
+[06:07:51] [INFO] Loaded script startup_scripts:custom_portals.js in 0.16 s
+[06:07:51] [INFO] Loaded script startup_scripts:fluid_add.js in 0.016 s
+[06:07:51] [INFO] Loaded script startup_scripts:items_add.js in 0.037 s
+[06:07:51] [INFO] mekanism_add.js#1: Loaded Java class 'mekanism.api.chemical.gas.Gas'
+[06:07:51] [INFO] mekanism_add.js#2: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
+[06:07:51] [INFO] mekanism_add.js#33: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[06:07:51] [INFO] mekanism_add.js#34: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[06:07:51] [INFO] mekanism_add.js#46: Loaded Java class 'mekanism.api.chemical.infuse.InfuseType'
+[06:07:51] [INFO] mekanism_add.js#47: Loaded Java class 'mekanism.api.chemical.infuse.InfuseTypeBuilder'
+[06:07:51] [INFO] mekanism_add.js#56: Loaded Java class 'mekanism.api.chemical.pigment.Pigment'
+[06:07:51] [INFO] mekanism_add.js#57: Loaded Java class 'mekanism.api.chemical.pigment.PigmentBuilder'
+[06:07:51] [INFO] Loaded script startup_scripts:mekanism_add.js in 0.08 s
+[06:07:51] [INFO] Loaded script startup_scripts:migration/items_add.js in 0.001 s
+[06:07:51] [INFO] Loaded script startup_scripts:modnames.js in 0.01 s
+[06:07:51] [INFO] Loaded script startup_scripts:worldgen_add.js in 0.017 s
+[06:07:51] [INFO] Loaded script startup_scripts:worldgen_remove.js in 0.004 s
+[06:07:51] [INFO] Loaded 12/12 KubeJS startup scripts in 4.54 s with 0 errors and 0 warnings
+[06:08:32] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.
+[06:08:32] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.
+[06:08:32] [INFO] custom_portals.js#38: Custom portal registered using custom item to light it.

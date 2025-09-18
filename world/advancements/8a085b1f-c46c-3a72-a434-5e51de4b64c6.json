@@ -16082,6 +16082,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-09-17 14:43:08 +0700"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/netherite_1": {
+    "criteria": {
+      "has_netherite": "2025-09-17 14:43:08 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-09-17 14:43:11 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-09-17 14:43:11 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-09-17 14:43:50 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_5": "2025-09-17 14:43:50 +0700"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-17 14:51:26 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2025-09-17 14:59:27 +0700"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
@@ -16100,93 +16160,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_slab": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/smeltery/scorched/table": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stonecutting": {
-    "criteria": {
-      "has_block": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/scorched/chute_retextured": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:foundry/alloyer": {
-    "criteria": {
-      "scorched_fuel_tank": "2025-09-17 15:12:37 +0700"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2025-09-17 14:43:08 +0700"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/netherite_1": {
-    "criteria": {
-      "has_netherite": "2025-09-17 14:43:08 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/polished_scorched_stone_stonecutting": {
-    "criteria": {
-      "has_block": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
-    "criteria": {
-      "has_item": "2025-09-17 14:59:27 +0700"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
-    "criteria": {
-      "has_item": "2025-09-17 14:51:26 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:foundry/structure": {
-    "criteria": {
-      "open_foundry": "2025-09-17 15:13:58 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/fantastic_foundry": {
-    "criteria": {
-      "has_item": "2025-09-17 14:59:27 +0700"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/scorched/drain": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
     },
     "done": true
   },
@@ -16205,12 +16187,6 @@
   "tconstruct:recipes/decorations/smeltery/scorched/basin": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-09-17 14:43:50 +0700"
     },
     "done": true
   },
@@ -16238,51 +16214,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
-    "criteria": {
-      "has_block": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/scorched/ingot_tank": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_brick": {
-    "criteria": {
-      "has_item": "2025-09-17 14:59:27 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/scorched/drain_retextured": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_omega_tier": {
-    "criteria": {
-      "has_stack_upgrade_tier_5": "2025-09-17 14:43:50 +0700"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_fence": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:54 +0700"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/scorched/fuel_tank": {
     "criteria": {
       "has_item": "2025-09-17 15:01:49 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-09-17 14:43:11 +0700"
     },
     "done": true
   },
@@ -16298,9 +16238,63 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+  "tconstruct:recipes/redstone/smeltery/scorched/channel": {
     "criteria": {
-      "has_stack_upgrade_tier_4": "2025-09-17 14:43:11 +0700"
+      "has_item": "2025-09-17 15:01:49 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/polished_scorched_stone_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_fence": {
+    "criteria": {
+      "has_item": "2025-09-17 15:01:54 +0700"
     },
     "done": true
   },
@@ -16310,15 +16304,21 @@
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/smeltery/scorched/channel": {
-    "criteria": {
-      "has_item": "2025-09-17 15:01:49 +0700"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/scorched/duct_retextured": {
     "criteria": {
       "has_item": "2025-09-17 15:01:54 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_fuel_tank": "2025-09-17 15:12:37 +0700"
+    },
+    "done": false
+  },
+  "tconstruct:foundry/structure": {
+    "criteria": {
+      "open_foundry": "2025-09-17 15:13:58 +0700"
     },
     "done": true
   },
